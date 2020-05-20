@@ -1,0 +1,8 @@
+C:\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7e25ad5c-38b8-4559-bf76-dfb0ec216da2
+\\babylon3\home-fbeit$\stvichuk\My Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|c632c7ab-c97d-487c-a7aa-8a334b41d880
+C:\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|c3d0e08d-5c8a-4e60-be10-2a14b92d61b0
+C:\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|c5e442c1-664a-4dd1-bca0-48114d3fff98
+C:\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|c12660ea-7698-4fb3-ae83-043c24ba4342
+\\babylon3\home-fbeit$\stvichuk\My Documents\PSoC Creator\Embedded_basics\00_blink_LED.cydsn\00_blink_LED.cyprj|9b19a8dc-305d-40ef-bc00-b5ca9ee626dc
+\\babylon3\home-fbeit$\stvichuk\My Documents\PSoC Creator\Embedded_basics\01_LED_SW_BLINK.cydsn\01_LED_SW_BLINK.cyprj|e9ca69c1-a8d3-4ce0-8b40-8430349e4708
+\\babylon3\home-fbeit$\stvichuk\My Documents\PSoC Creator\Embedded_basics\02_LED_BUTTON_HW.cydsn\02_LED_BUTTON_HW.cyprj|27bb306a-5c2c-4b8c-8e5b-c80fd150755e

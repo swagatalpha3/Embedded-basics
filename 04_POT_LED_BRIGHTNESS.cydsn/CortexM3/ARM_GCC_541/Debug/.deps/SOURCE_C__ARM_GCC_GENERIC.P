@@ -1,0 +1,24 @@
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/CortexM3/ARM_GCC_541/Debug/cyfitter_cfg.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cytypes.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/cyapicallbacks.h 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/04_POT_LED_BRIGHTNESS.cydsn/cyapicallbacks.h : 
+

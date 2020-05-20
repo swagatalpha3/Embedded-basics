@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="Embedded_basics" persistent="Embedded_basics.cywrk" platform="NOT_USED">
+<current_project name=".\08_CAPACITOR_PWM.cydsn\08_CAPACITOR_PWM.cyprj" />
+<wrkspc_folders />
+<files />
+<projects>
+<v>.\00_blink_LED.cydsn\00_blink_LED.cyprj</v>
+<v>.\01_LED_SW_BLINK.cydsn\01_LED_SW_BLINK.cyprj</v>
+<v>.\02_LED_BUTTON_HW.cydsn\02_LED_BUTTON_HW.cyprj</v>
+<v>.\03_LED_BUTTON_SW.cydsn\03_LED_BUTTON_SW.cyprj</v>
+<v>.\04_POT_LED_BRIGHTNESS.cydsn\04_POT_LED_BRIGHTNESS.cyprj</v>
+<v>.\05_UART_INTRO.cydsn\05_UART_INTRO.cyprj</v>
+<v>.\06_UART_LED_STATUS.cydsn\06_UART_LED_STATUS.cyprj</v>
+<v>.\07_UART_LED_CONTROL_KEYBOARD.cydsn\07_UART_LED_CONTROL_KEYBOARD.cyprj</v>
+<v>.\08_CAPACITOR_PWM.cydsn\08_CAPACITOR_PWM.cyprj</v>
+</projects>
+<workspace_id v="277c7b29-e4c5-41f8-96f2-769332e6bb01" />
+<WriteAppVersionLastSavedWith v="4.2.0.641" />
+<WriteAppMarketingVersionLastSavedWith v="4.2" />
+<CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
+<wrkspc_dependencies />
+</CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
+<CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyIgnoredSystemDepsList" version="1">
+<wrkspc_dependencies />
+</CyGuid_63b68103-67f5-4406-8da6-5c8625765b82>
+</CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd>
+</CyXmlSerializer>

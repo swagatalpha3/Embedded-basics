@@ -1,0 +1,689 @@
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 1
+
+
+   1              		.syntax unified
+   2              		.cpu cortex-m3
+   3              		.fpu softvfp
+   4              		.eabi_attribute 20, 1
+   5              		.eabi_attribute 21, 1
+   6              		.eabi_attribute 23, 3
+   7              		.eabi_attribute 24, 1
+   8              		.eabi_attribute 25, 1
+   9              		.eabi_attribute 26, 1
+  10              		.eabi_attribute 30, 1
+  11              		.eabi_attribute 34, 1
+  12              		.eabi_attribute 18, 4
+  13              		.thumb
+  14              		.syntax unified
+  15              		.file	"main.c"
+  16              		.text
+  17              	.Ltext0:
+  18              		.cfi_sections	.debug_frame
+  19              		.section	.text.main,"ax",%progbits
+  20              		.align	2
+  21              		.global	main
+  22              		.thumb
+  23              		.thumb_func
+  24              		.type	main, %function
+  25              	main:
+  26              	.LFB63:
+  27              		.file 1 "main.c"
+   1:main.c        **** 
+   2:main.c        **** #include "project.h"
+   3:main.c        **** 
+   4:main.c        **** int main(void)
+   5:main.c        **** {
+  28              		.loc 1 5 0
+  29              		.cfi_startproc
+  30              		@ args = 0, pretend = 0, frame = 0
+  31              		@ frame_needed = 0, uses_anonymous_args = 0
+  32 0000 08B5     		push	{r3, lr}
+  33              		.cfi_def_cfa_offset 8
+  34              		.cfi_offset 3, -8
+  35              		.cfi_offset 14, -4
+   6:main.c        ****     CyGlobalIntEnable; /* Enable global interrupts. */
+  36              		.loc 1 6 0
+  37              		.syntax unified
+  38              	@ 6 "main.c" 1
+  39 0002 62B6     		CPSIE   i
+  40              	@ 0 "" 2
+  41              	.LVL0:
+  42              		.thumb
+  43              		.syntax unified
+  44              	.L4:
+  45              	.LBB2:
+   7:main.c        ****     uint8 led_state = 0; 
+   8:main.c        **** 
+   9:main.c        ****     for(;;)
+  10:main.c        ****     {
+  11:main.c        ****        uint8 led_state;
+  12:main.c        ****        led_state= LED_Read(); 
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 2
+
+
+  46              		.loc 1 12 0
+  47 0004 FFF7FEFF 		bl	LED_Read
+  48              	.LVL1:
+  13:main.c        ****        if (led_state==0) 
+  49              		.loc 1 13 0
+  50 0008 18B9     		cbnz	r0, .L2
+  14:main.c        ****             LED_Write(1);
+  51              		.loc 1 14 0
+  52 000a 0120     		movs	r0, #1
+  53              	.LVL2:
+  54 000c FFF7FEFF 		bl	LED_Write
+  55              	.LVL3:
+  56 0010 02E0     		b	.L3
+  57              	.LVL4:
+  58              	.L2:
+  15:main.c        ****        else
+  16:main.c        ****             LED_Write(0);
+  59              		.loc 1 16 0
+  60 0012 0020     		movs	r0, #0
+  61              	.LVL5:
+  62 0014 FFF7FEFF 		bl	LED_Write
+  63              	.LVL6:
+  64              	.L3:
+  17:main.c        ****        CyDelay(100);
+  65              		.loc 1 17 0
+  66 0018 6420     		movs	r0, #100
+  67 001a FFF7FEFF 		bl	CyDelay
+  68              	.LVL7:
+  69              	.LBE2:
+  18:main.c        ****     }
+  70              		.loc 1 18 0
+  71 001e F1E7     		b	.L4
+  72              		.cfi_endproc
+  73              	.LFE63:
+  74              		.size	main, .-main
+  75              		.text
+  76              	.Letext0:
+  77              		.file 2 "c:\\program files (x86)\\cypress\\psoc creator\\4.2\\psoc creator\\import\\gnu\\arm\\5.4.
+  78              		.file 3 "c:\\program files (x86)\\cypress\\psoc creator\\4.2\\psoc creator\\import\\gnu\\arm\\5.4.
+  79              		.file 4 "Generated_Source\\PSoC5/cytypes.h"
+  80              		.file 5 "Generated_Source\\PSoC5/LED.h"
+  81              		.file 6 "Generated_Source\\PSoC5/CyLib.h"
+  82              		.file 7 "Generated_Source\\PSoC5/core_cm3.h"
+  83              		.section	.debug_info,"",%progbits
+  84              	.Ldebug_info0:
+  85 0000 5D010000 		.4byte	0x15d
+  86 0004 0400     		.2byte	0x4
+  87 0006 00000000 		.4byte	.Ldebug_abbrev0
+  88 000a 04       		.byte	0x4
+  89 000b 01       		.uleb128 0x1
+  90 000c 40000000 		.4byte	.LASF21
+  91 0010 0C       		.byte	0xc
+  92 0011 2E000000 		.4byte	.LASF22
+  93 0015 13010000 		.4byte	.LASF23
+  94 0019 00000000 		.4byte	.Ldebug_ranges0+0
+  95 001d 00000000 		.4byte	0
+  96 0021 00000000 		.4byte	.Ldebug_line0
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 3
+
+
+  97 0025 02       		.uleb128 0x2
+  98 0026 01       		.byte	0x1
+  99 0027 06       		.byte	0x6
+ 100 0028 91010000 		.4byte	.LASF0
+ 101 002c 02       		.uleb128 0x2
+ 102 002d 01       		.byte	0x1
+ 103 002e 08       		.byte	0x8
+ 104 002f 61010000 		.4byte	.LASF1
+ 105 0033 02       		.uleb128 0x2
+ 106 0034 02       		.byte	0x2
+ 107 0035 05       		.byte	0x5
+ 108 0036 B9010000 		.4byte	.LASF2
+ 109 003a 02       		.uleb128 0x2
+ 110 003b 02       		.byte	0x2
+ 111 003c 07       		.byte	0x7
+ 112 003d 0E000000 		.4byte	.LASF3
+ 113 0041 03       		.uleb128 0x3
+ 114 0042 A9010000 		.4byte	.LASF9
+ 115 0046 02       		.byte	0x2
+ 116 0047 3F       		.byte	0x3f
+ 117 0048 4C000000 		.4byte	0x4c
+ 118 004c 02       		.uleb128 0x2
+ 119 004d 04       		.byte	0x4
+ 120 004e 05       		.byte	0x5
+ 121 004f 74010000 		.4byte	.LASF4
+ 122 0053 02       		.uleb128 0x2
+ 123 0054 04       		.byte	0x4
+ 124 0055 07       		.byte	0x7
+ 125 0056 E0000000 		.4byte	.LASF5
+ 126 005a 02       		.uleb128 0x2
+ 127 005b 08       		.byte	0x8
+ 128 005c 05       		.byte	0x5
+ 129 005d 00000000 		.4byte	.LASF6
+ 130 0061 02       		.uleb128 0x2
+ 131 0062 08       		.byte	0x8
+ 132 0063 07       		.byte	0x7
+ 133 0064 F2000000 		.4byte	.LASF7
+ 134 0068 04       		.uleb128 0x4
+ 135 0069 04       		.byte	0x4
+ 136 006a 05       		.byte	0x5
+ 137 006b 696E7400 		.ascii	"int\000"
+ 138 006f 02       		.uleb128 0x2
+ 139 0070 04       		.byte	0x4
+ 140 0071 07       		.byte	0x7
+ 141 0072 21000000 		.4byte	.LASF8
+ 142 0076 03       		.uleb128 0x3
+ 143 0077 C3010000 		.4byte	.LASF10
+ 144 007b 03       		.byte	0x3
+ 145 007c 2C       		.byte	0x2c
+ 146 007d 41000000 		.4byte	0x41
+ 147 0081 05       		.uleb128 0x5
+ 148 0082 3A000000 		.4byte	.LASF11
+ 149 0086 04       		.byte	0x4
+ 150 0087 E401     		.2byte	0x1e4
+ 151 0089 2C000000 		.4byte	0x2c
+ 152 008d 02       		.uleb128 0x2
+ 153 008e 04       		.byte	0x4
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 4
+
+
+ 154 008f 04       		.byte	0x4
+ 155 0090 B3010000 		.4byte	.LASF12
+ 156 0094 02       		.uleb128 0x2
+ 157 0095 08       		.byte	0x8
+ 158 0096 04       		.byte	0x4
+ 159 0097 7D010000 		.4byte	.LASF13
+ 160 009b 02       		.uleb128 0x2
+ 161 009c 01       		.byte	0x1
+ 162 009d 08       		.byte	0x8
+ 163 009e 6F010000 		.4byte	.LASF14
+ 164 00a2 02       		.uleb128 0x2
+ 165 00a3 04       		.byte	0x4
+ 166 00a4 07       		.byte	0x7
+ 167 00a5 CB010000 		.4byte	.LASF15
+ 168 00a9 02       		.uleb128 0x2
+ 169 00aa 08       		.byte	0x8
+ 170 00ab 04       		.byte	0x4
+ 171 00ac 9D010000 		.4byte	.LASF16
+ 172 00b0 06       		.uleb128 0x6
+ 173 00b1 35000000 		.4byte	.LASF24
+ 174 00b5 01       		.byte	0x1
+ 175 00b6 04       		.byte	0x4
+ 176 00b7 68000000 		.4byte	0x68
+ 177 00bb 00000000 		.4byte	.LFB63
+ 178 00bf 20000000 		.4byte	.LFE63-.LFB63
+ 179 00c3 01       		.uleb128 0x1
+ 180 00c4 9C       		.byte	0x9c
+ 181 00c5 2E010000 		.4byte	0x12e
+ 182 00c9 07       		.uleb128 0x7
+ 183 00ca 09010000 		.4byte	.LASF17
+ 184 00ce 01       		.byte	0x1
+ 185 00cf 07       		.byte	0x7
+ 186 00d0 81000000 		.4byte	0x81
+ 187 00d4 00       		.byte	0
+ 188 00d5 08       		.uleb128 0x8
+ 189 00d6 04000000 		.4byte	.LBB2
+ 190 00da 1A000000 		.4byte	.LBE2-.LBB2
+ 191 00de 09       		.uleb128 0x9
+ 192 00df 09010000 		.4byte	.LASF17
+ 193 00e3 01       		.byte	0x1
+ 194 00e4 0B       		.byte	0xb
+ 195 00e5 81000000 		.4byte	0x81
+ 196 00e9 00000000 		.4byte	.LLST0
+ 197 00ed 0A       		.uleb128 0xa
+ 198 00ee 08000000 		.4byte	.LVL1
+ 199 00f2 3F010000 		.4byte	0x13f
+ 200 00f6 0B       		.uleb128 0xb
+ 201 00f7 10000000 		.4byte	.LVL3
+ 202 00fb 4A010000 		.4byte	0x14a
+ 203 00ff 09010000 		.4byte	0x109
+ 204 0103 0C       		.uleb128 0xc
+ 205 0104 01       		.uleb128 0x1
+ 206 0105 50       		.byte	0x50
+ 207 0106 01       		.uleb128 0x1
+ 208 0107 31       		.byte	0x31
+ 209 0108 00       		.byte	0
+ 210 0109 0B       		.uleb128 0xb
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 5
+
+
+ 211 010a 18000000 		.4byte	.LVL6
+ 212 010e 4A010000 		.4byte	0x14a
+ 213 0112 1C010000 		.4byte	0x11c
+ 214 0116 0C       		.uleb128 0xc
+ 215 0117 01       		.uleb128 0x1
+ 216 0118 50       		.byte	0x50
+ 217 0119 01       		.uleb128 0x1
+ 218 011a 30       		.byte	0x30
+ 219 011b 00       		.byte	0
+ 220 011c 0D       		.uleb128 0xd
+ 221 011d 1E000000 		.4byte	.LVL7
+ 222 0121 55010000 		.4byte	0x155
+ 223 0125 0C       		.uleb128 0xc
+ 224 0126 01       		.uleb128 0x1
+ 225 0127 50       		.byte	0x50
+ 226 0128 02       		.uleb128 0x2
+ 227 0129 08       		.byte	0x8
+ 228 012a 64       		.byte	0x64
+ 229 012b 00       		.byte	0
+ 230 012c 00       		.byte	0
+ 231 012d 00       		.byte	0
+ 232 012e 0E       		.uleb128 0xe
+ 233 012f 84010000 		.4byte	.LASF25
+ 234 0133 07       		.byte	0x7
+ 235 0134 1207     		.2byte	0x712
+ 236 0136 3A010000 		.4byte	0x13a
+ 237 013a 0F       		.uleb128 0xf
+ 238 013b 76000000 		.4byte	0x76
+ 239 013f 10       		.uleb128 0x10
+ 240 0140 58010000 		.4byte	.LASF18
+ 241 0144 58010000 		.4byte	.LASF18
+ 242 0148 05       		.byte	0x5
+ 243 0149 29       		.byte	0x29
+ 244 014a 10       		.uleb128 0x10
+ 245 014b D6000000 		.4byte	.LASF19
+ 246 014f D6000000 		.4byte	.LASF19
+ 247 0153 05       		.byte	0x5
+ 248 0154 26       		.byte	0x26
+ 249 0155 10       		.uleb128 0x10
+ 250 0156 CE000000 		.4byte	.LASF20
+ 251 015a CE000000 		.4byte	.LASF20
+ 252 015e 06       		.byte	0x6
+ 253 015f 76       		.byte	0x76
+ 254 0160 00       		.byte	0
+ 255              		.section	.debug_abbrev,"",%progbits
+ 256              	.Ldebug_abbrev0:
+ 257 0000 01       		.uleb128 0x1
+ 258 0001 11       		.uleb128 0x11
+ 259 0002 01       		.byte	0x1
+ 260 0003 25       		.uleb128 0x25
+ 261 0004 0E       		.uleb128 0xe
+ 262 0005 13       		.uleb128 0x13
+ 263 0006 0B       		.uleb128 0xb
+ 264 0007 03       		.uleb128 0x3
+ 265 0008 0E       		.uleb128 0xe
+ 266 0009 1B       		.uleb128 0x1b
+ 267 000a 0E       		.uleb128 0xe
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 6
+
+
+ 268 000b 55       		.uleb128 0x55
+ 269 000c 17       		.uleb128 0x17
+ 270 000d 11       		.uleb128 0x11
+ 271 000e 01       		.uleb128 0x1
+ 272 000f 10       		.uleb128 0x10
+ 273 0010 17       		.uleb128 0x17
+ 274 0011 00       		.byte	0
+ 275 0012 00       		.byte	0
+ 276 0013 02       		.uleb128 0x2
+ 277 0014 24       		.uleb128 0x24
+ 278 0015 00       		.byte	0
+ 279 0016 0B       		.uleb128 0xb
+ 280 0017 0B       		.uleb128 0xb
+ 281 0018 3E       		.uleb128 0x3e
+ 282 0019 0B       		.uleb128 0xb
+ 283 001a 03       		.uleb128 0x3
+ 284 001b 0E       		.uleb128 0xe
+ 285 001c 00       		.byte	0
+ 286 001d 00       		.byte	0
+ 287 001e 03       		.uleb128 0x3
+ 288 001f 16       		.uleb128 0x16
+ 289 0020 00       		.byte	0
+ 290 0021 03       		.uleb128 0x3
+ 291 0022 0E       		.uleb128 0xe
+ 292 0023 3A       		.uleb128 0x3a
+ 293 0024 0B       		.uleb128 0xb
+ 294 0025 3B       		.uleb128 0x3b
+ 295 0026 0B       		.uleb128 0xb
+ 296 0027 49       		.uleb128 0x49
+ 297 0028 13       		.uleb128 0x13
+ 298 0029 00       		.byte	0
+ 299 002a 00       		.byte	0
+ 300 002b 04       		.uleb128 0x4
+ 301 002c 24       		.uleb128 0x24
+ 302 002d 00       		.byte	0
+ 303 002e 0B       		.uleb128 0xb
+ 304 002f 0B       		.uleb128 0xb
+ 305 0030 3E       		.uleb128 0x3e
+ 306 0031 0B       		.uleb128 0xb
+ 307 0032 03       		.uleb128 0x3
+ 308 0033 08       		.uleb128 0x8
+ 309 0034 00       		.byte	0
+ 310 0035 00       		.byte	0
+ 311 0036 05       		.uleb128 0x5
+ 312 0037 16       		.uleb128 0x16
+ 313 0038 00       		.byte	0
+ 314 0039 03       		.uleb128 0x3
+ 315 003a 0E       		.uleb128 0xe
+ 316 003b 3A       		.uleb128 0x3a
+ 317 003c 0B       		.uleb128 0xb
+ 318 003d 3B       		.uleb128 0x3b
+ 319 003e 05       		.uleb128 0x5
+ 320 003f 49       		.uleb128 0x49
+ 321 0040 13       		.uleb128 0x13
+ 322 0041 00       		.byte	0
+ 323 0042 00       		.byte	0
+ 324 0043 06       		.uleb128 0x6
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 7
+
+
+ 325 0044 2E       		.uleb128 0x2e
+ 326 0045 01       		.byte	0x1
+ 327 0046 3F       		.uleb128 0x3f
+ 328 0047 19       		.uleb128 0x19
+ 329 0048 03       		.uleb128 0x3
+ 330 0049 0E       		.uleb128 0xe
+ 331 004a 3A       		.uleb128 0x3a
+ 332 004b 0B       		.uleb128 0xb
+ 333 004c 3B       		.uleb128 0x3b
+ 334 004d 0B       		.uleb128 0xb
+ 335 004e 27       		.uleb128 0x27
+ 336 004f 19       		.uleb128 0x19
+ 337 0050 49       		.uleb128 0x49
+ 338 0051 13       		.uleb128 0x13
+ 339 0052 8701     		.uleb128 0x87
+ 340 0054 19       		.uleb128 0x19
+ 341 0055 11       		.uleb128 0x11
+ 342 0056 01       		.uleb128 0x1
+ 343 0057 12       		.uleb128 0x12
+ 344 0058 06       		.uleb128 0x6
+ 345 0059 40       		.uleb128 0x40
+ 346 005a 18       		.uleb128 0x18
+ 347 005b 9742     		.uleb128 0x2117
+ 348 005d 19       		.uleb128 0x19
+ 349 005e 01       		.uleb128 0x1
+ 350 005f 13       		.uleb128 0x13
+ 351 0060 00       		.byte	0
+ 352 0061 00       		.byte	0
+ 353 0062 07       		.uleb128 0x7
+ 354 0063 34       		.uleb128 0x34
+ 355 0064 00       		.byte	0
+ 356 0065 03       		.uleb128 0x3
+ 357 0066 0E       		.uleb128 0xe
+ 358 0067 3A       		.uleb128 0x3a
+ 359 0068 0B       		.uleb128 0xb
+ 360 0069 3B       		.uleb128 0x3b
+ 361 006a 0B       		.uleb128 0xb
+ 362 006b 49       		.uleb128 0x49
+ 363 006c 13       		.uleb128 0x13
+ 364 006d 1C       		.uleb128 0x1c
+ 365 006e 0B       		.uleb128 0xb
+ 366 006f 00       		.byte	0
+ 367 0070 00       		.byte	0
+ 368 0071 08       		.uleb128 0x8
+ 369 0072 0B       		.uleb128 0xb
+ 370 0073 01       		.byte	0x1
+ 371 0074 11       		.uleb128 0x11
+ 372 0075 01       		.uleb128 0x1
+ 373 0076 12       		.uleb128 0x12
+ 374 0077 06       		.uleb128 0x6
+ 375 0078 00       		.byte	0
+ 376 0079 00       		.byte	0
+ 377 007a 09       		.uleb128 0x9
+ 378 007b 34       		.uleb128 0x34
+ 379 007c 00       		.byte	0
+ 380 007d 03       		.uleb128 0x3
+ 381 007e 0E       		.uleb128 0xe
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 8
+
+
+ 382 007f 3A       		.uleb128 0x3a
+ 383 0080 0B       		.uleb128 0xb
+ 384 0081 3B       		.uleb128 0x3b
+ 385 0082 0B       		.uleb128 0xb
+ 386 0083 49       		.uleb128 0x49
+ 387 0084 13       		.uleb128 0x13
+ 388 0085 02       		.uleb128 0x2
+ 389 0086 17       		.uleb128 0x17
+ 390 0087 00       		.byte	0
+ 391 0088 00       		.byte	0
+ 392 0089 0A       		.uleb128 0xa
+ 393 008a 898201   		.uleb128 0x4109
+ 394 008d 00       		.byte	0
+ 395 008e 11       		.uleb128 0x11
+ 396 008f 01       		.uleb128 0x1
+ 397 0090 31       		.uleb128 0x31
+ 398 0091 13       		.uleb128 0x13
+ 399 0092 00       		.byte	0
+ 400 0093 00       		.byte	0
+ 401 0094 0B       		.uleb128 0xb
+ 402 0095 898201   		.uleb128 0x4109
+ 403 0098 01       		.byte	0x1
+ 404 0099 11       		.uleb128 0x11
+ 405 009a 01       		.uleb128 0x1
+ 406 009b 31       		.uleb128 0x31
+ 407 009c 13       		.uleb128 0x13
+ 408 009d 01       		.uleb128 0x1
+ 409 009e 13       		.uleb128 0x13
+ 410 009f 00       		.byte	0
+ 411 00a0 00       		.byte	0
+ 412 00a1 0C       		.uleb128 0xc
+ 413 00a2 8A8201   		.uleb128 0x410a
+ 414 00a5 00       		.byte	0
+ 415 00a6 02       		.uleb128 0x2
+ 416 00a7 18       		.uleb128 0x18
+ 417 00a8 9142     		.uleb128 0x2111
+ 418 00aa 18       		.uleb128 0x18
+ 419 00ab 00       		.byte	0
+ 420 00ac 00       		.byte	0
+ 421 00ad 0D       		.uleb128 0xd
+ 422 00ae 898201   		.uleb128 0x4109
+ 423 00b1 01       		.byte	0x1
+ 424 00b2 11       		.uleb128 0x11
+ 425 00b3 01       		.uleb128 0x1
+ 426 00b4 31       		.uleb128 0x31
+ 427 00b5 13       		.uleb128 0x13
+ 428 00b6 00       		.byte	0
+ 429 00b7 00       		.byte	0
+ 430 00b8 0E       		.uleb128 0xe
+ 431 00b9 34       		.uleb128 0x34
+ 432 00ba 00       		.byte	0
+ 433 00bb 03       		.uleb128 0x3
+ 434 00bc 0E       		.uleb128 0xe
+ 435 00bd 3A       		.uleb128 0x3a
+ 436 00be 0B       		.uleb128 0xb
+ 437 00bf 3B       		.uleb128 0x3b
+ 438 00c0 05       		.uleb128 0x5
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 9
+
+
+ 439 00c1 49       		.uleb128 0x49
+ 440 00c2 13       		.uleb128 0x13
+ 441 00c3 3F       		.uleb128 0x3f
+ 442 00c4 19       		.uleb128 0x19
+ 443 00c5 3C       		.uleb128 0x3c
+ 444 00c6 19       		.uleb128 0x19
+ 445 00c7 00       		.byte	0
+ 446 00c8 00       		.byte	0
+ 447 00c9 0F       		.uleb128 0xf
+ 448 00ca 35       		.uleb128 0x35
+ 449 00cb 00       		.byte	0
+ 450 00cc 49       		.uleb128 0x49
+ 451 00cd 13       		.uleb128 0x13
+ 452 00ce 00       		.byte	0
+ 453 00cf 00       		.byte	0
+ 454 00d0 10       		.uleb128 0x10
+ 455 00d1 2E       		.uleb128 0x2e
+ 456 00d2 00       		.byte	0
+ 457 00d3 3F       		.uleb128 0x3f
+ 458 00d4 19       		.uleb128 0x19
+ 459 00d5 3C       		.uleb128 0x3c
+ 460 00d6 19       		.uleb128 0x19
+ 461 00d7 6E       		.uleb128 0x6e
+ 462 00d8 0E       		.uleb128 0xe
+ 463 00d9 03       		.uleb128 0x3
+ 464 00da 0E       		.uleb128 0xe
+ 465 00db 3A       		.uleb128 0x3a
+ 466 00dc 0B       		.uleb128 0xb
+ 467 00dd 3B       		.uleb128 0x3b
+ 468 00de 0B       		.uleb128 0xb
+ 469 00df 00       		.byte	0
+ 470 00e0 00       		.byte	0
+ 471 00e1 00       		.byte	0
+ 472              		.section	.debug_loc,"",%progbits
+ 473              	.Ldebug_loc0:
+ 474              	.LLST0:
+ 475 0000 08000000 		.4byte	.LVL1
+ 476 0004 0C000000 		.4byte	.LVL2
+ 477 0008 0100     		.2byte	0x1
+ 478 000a 50       		.byte	0x50
+ 479 000b 12000000 		.4byte	.LVL4
+ 480 000f 14000000 		.4byte	.LVL5
+ 481 0013 0100     		.2byte	0x1
+ 482 0015 50       		.byte	0x50
+ 483 0016 00000000 		.4byte	0
+ 484 001a 00000000 		.4byte	0
+ 485              		.section	.debug_aranges,"",%progbits
+ 486 0000 1C000000 		.4byte	0x1c
+ 487 0004 0200     		.2byte	0x2
+ 488 0006 00000000 		.4byte	.Ldebug_info0
+ 489 000a 04       		.byte	0x4
+ 490 000b 00       		.byte	0
+ 491 000c 0000     		.2byte	0
+ 492 000e 0000     		.2byte	0
+ 493 0010 00000000 		.4byte	.LFB63
+ 494 0014 20000000 		.4byte	.LFE63-.LFB63
+ 495 0018 00000000 		.4byte	0
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 10
+
+
+ 496 001c 00000000 		.4byte	0
+ 497              		.section	.debug_ranges,"",%progbits
+ 498              	.Ldebug_ranges0:
+ 499 0000 00000000 		.4byte	.LFB63
+ 500 0004 20000000 		.4byte	.LFE63
+ 501 0008 00000000 		.4byte	0
+ 502 000c 00000000 		.4byte	0
+ 503              		.section	.debug_line,"",%progbits
+ 504              	.Ldebug_line0:
+ 505 0000 7A010000 		.section	.debug_str,"MS",%progbits,1
+ 505      02006001 
+ 505      00000201 
+ 505      FB0E0D00 
+ 505      01010101 
+ 506              	.LASF6:
+ 507 0000 6C6F6E67 		.ascii	"long long int\000"
+ 507      206C6F6E 
+ 507      6720696E 
+ 507      7400
+ 508              	.LASF3:
+ 509 000e 73686F72 		.ascii	"short unsigned int\000"
+ 509      7420756E 
+ 509      7369676E 
+ 509      65642069 
+ 509      6E7400
+ 510              	.LASF8:
+ 511 0021 756E7369 		.ascii	"unsigned int\000"
+ 511      676E6564 
+ 511      20696E74 
+ 511      00
+ 512              	.LASF22:
+ 513 002e 6D61696E 		.ascii	"main.c\000"
+ 513      2E6300
+ 514              	.LASF24:
+ 515 0035 6D61696E 		.ascii	"main\000"
+ 515      00
+ 516              	.LASF11:
+ 517 003a 75696E74 		.ascii	"uint8\000"
+ 517      3800
+ 518              	.LASF21:
+ 519 0040 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 519      43313120 
+ 519      352E342E 
+ 519      31203230 
+ 519      31363036 
+ 520 0073 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
+ 520      20726576 
+ 520      6973696F 
+ 520      6E203233 
+ 520      37373135 
+ 521 00a6 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
+ 521      66756E63 
+ 521      74696F6E 
+ 521      2D736563 
+ 521      74696F6E 
+ 522              	.LASF20:
+ 523 00ce 43794465 		.ascii	"CyDelay\000"
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 11
+
+
+ 523      6C617900 
+ 524              	.LASF19:
+ 525 00d6 4C45445F 		.ascii	"LED_Write\000"
+ 525      57726974 
+ 525      6500
+ 526              	.LASF5:
+ 527 00e0 6C6F6E67 		.ascii	"long unsigned int\000"
+ 527      20756E73 
+ 527      69676E65 
+ 527      6420696E 
+ 527      7400
+ 528              	.LASF7:
+ 529 00f2 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 529      206C6F6E 
+ 529      6720756E 
+ 529      7369676E 
+ 529      65642069 
+ 530              	.LASF17:
+ 531 0109 6C65645F 		.ascii	"led_state\000"
+ 531      73746174 
+ 531      6500
+ 532              	.LASF23:
+ 533 0113 443A5C68 		.ascii	"D:\\h_da\\Lecturs\\Basic Embedded\\Embedded_basics\\"
+ 533      5F64615C 
+ 533      4C656374 
+ 533      7572735C 
+ 533      42617369 
+ 534 0142 30315F4C 		.ascii	"01_LED_SW_BLINK.cydsn\000"
+ 534      45445F53 
+ 534      575F424C 
+ 534      494E4B2E 
+ 534      63796473 
+ 535              	.LASF18:
+ 536 0158 4C45445F 		.ascii	"LED_Read\000"
+ 536      52656164 
+ 536      00
+ 537              	.LASF1:
+ 538 0161 756E7369 		.ascii	"unsigned char\000"
+ 538      676E6564 
+ 538      20636861 
+ 538      7200
+ 539              	.LASF14:
+ 540 016f 63686172 		.ascii	"char\000"
+ 540      00
+ 541              	.LASF4:
+ 542 0174 6C6F6E67 		.ascii	"long int\000"
+ 542      20696E74 
+ 542      00
+ 543              	.LASF13:
+ 544 017d 646F7562 		.ascii	"double\000"
+ 544      6C6500
+ 545              	.LASF25:
+ 546 0184 49544D5F 		.ascii	"ITM_RxBuffer\000"
+ 546      52784275 
+ 546      66666572 
+ 546      00
+ 547              	.LASF0:
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\cc4PF4E2.s 			page 12
+
+
+ 548 0191 7369676E 		.ascii	"signed char\000"
+ 548      65642063 
+ 548      68617200 
+ 549              	.LASF16:
+ 550 019d 6C6F6E67 		.ascii	"long double\000"
+ 550      20646F75 
+ 550      626C6500 
+ 551              	.LASF9:
+ 552 01a9 5F5F696E 		.ascii	"__int32_t\000"
+ 552      7433325F 
+ 552      7400
+ 553              	.LASF12:
+ 554 01b3 666C6F61 		.ascii	"float\000"
+ 554      7400
+ 555              	.LASF2:
+ 556 01b9 73686F72 		.ascii	"short int\000"
+ 556      7420696E 
+ 556      7400
+ 557              	.LASF10:
+ 558 01c3 696E7433 		.ascii	"int32_t\000"
+ 558      325F7400 
+ 559              	.LASF15:
+ 560 01cb 73697A65 		.ascii	"sizetype\000"
+ 560      74797065 
+ 560      00
+ 561              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran

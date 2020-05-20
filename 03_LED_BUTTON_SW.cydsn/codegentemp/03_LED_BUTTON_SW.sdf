@@ -1,0 +1,20 @@
+(DELAYFILE
+ (SDFVERSION "IEEE 1497 4.0")
+ (DATE "2020-03-10T21:54:34Z")
+ (DESIGN "03_LED_BUTTON_SW")
+ (VENDOR "Cypress Semiconductor")
+ (PROGRAM "PSoC Creator")
+ (VERSION " 4.2")
+ (DIVIDER .)
+ (TIMESCALE 1 ns)
+ (CELL
+  (CELLTYPE "03_LED_BUTTON_SW")
+  (INSTANCE *)
+  (DELAY
+   (ABSOLUTE
+    (INTERCONNECT led\(0\)_PAD led\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT button\(0\)_PAD button\(0\).pad_in (0.000:0.000:0.000))
+   )
+  )
+ )
+)

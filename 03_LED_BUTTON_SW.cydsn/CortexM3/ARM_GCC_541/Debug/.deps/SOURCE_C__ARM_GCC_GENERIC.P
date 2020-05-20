@@ -1,0 +1,100 @@
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/Cm3Start.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/Cm3Start.c D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyDmac.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/cyapicallbacks.h 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/Cm3Start.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/cyapicallbacks.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/CyDmac.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyDmac.c D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyDmac.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyDmac.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/CyFlash.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.c D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/CyLib.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.c D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/CySpc.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.c D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/button.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/button.c D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/button.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/button_aliases.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cypins.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/button.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/button.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/button_aliases.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/cyPm.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.c D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/cyapicallbacks.h 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/cy_em_eeprom.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/cyfitter_cfg.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/cyapicallbacks.h 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/cymetadata.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cymetadata.c 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cymetadata.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/cyutils.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyutils.c 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyutils.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/led.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cypins.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/led.c D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/led.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/led_aliases.h 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/led.c : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/led.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/led_aliases.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cmsis_armcc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cmsis_compiler.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cmsis_gcc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/core_cm3.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydisabledsheets.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/project.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyDmac.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/button.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/button_aliases.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cypins.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cytypes.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/led.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/led_aliases.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/main.c 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cmsis_compiler.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/Generated_Source/PSoC5/project.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/03_LED_BUTTON_SW.cydsn/main.c : 
+

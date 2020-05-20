@@ -1,0 +1,14 @@
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\00_blink_LED.cydsn\00_blink_LED.cyprj|3f9cc0a2-c433-4366-b87d-a932e04df526
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|96d6b3fd-cb8d-438b-98bd-68d85660b506
+C:\Users\swaga\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|bef317d0-9dc0-46e8-869e-ceb8265f0267
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|fe2a3a9c-ea7b-4bfb-a665-442d0ce9c900
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|46875dc8-f201-4ee4-9806-eabe21a7909e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ea294889-bf5d-47b6-ba6b-d6d7b695fb91
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\01_LED_SW_BLINK.cydsn\01_LED_SW_BLINK.cyprj|ad8b9131-99a5-46d0-8d44-e192523402c9
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\02_LED_BUTTON_HW.cydsn\02_LED_BUTTON_HW.cyprj|804f2000-d25d-46ad-a085-2ccfd726c8de
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\03_LED_BUTTON_SW.cydsn\03_LED_BUTTON_SW.cyprj|2f3fa8e1-7bbb-4903-aaac-aeb9cfce2777
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\04_POT_LED_BRIGHTNESS.cydsn\04_POT_LED_BRIGHTNESS.cyprj|ee3f2f07-001f-4ab6-b75c-f1c3f61efcd7
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\05_UART_INTRO.cydsn\05_UART_INTRO.cyprj|b8406c86-ea82-45dd-9478-0228f765666d
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\06_UART_LED_STATUS.cydsn\06_UART_LED_STATUS.cyprj|11a4100c-8f1e-430e-a8bb-2d9265e3364d
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\08_XXXXXX.cydsn\08_XXXXXX.cyprj|f799301a-a1d7-4db9-8e4a-6a000478d4dd
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\07_UART_LED_CONTROL_KEYBOARD.cydsn\07_UART_LED_CONTROL_KEYBOARD.cyprj|eaf23d11-7796-4667-a482-9aa8384352b0

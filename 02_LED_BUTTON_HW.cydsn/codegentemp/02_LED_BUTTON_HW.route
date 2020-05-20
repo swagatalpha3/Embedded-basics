@@ -1,0 +1,11 @@
+net Net_6
+	term   ":ioport2:pin2.fb"
+	switch ":ioport2:pin2.fb==>Stub-:dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:v4+:dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:v6"
+	switch "OStub-:dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:v4+:dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:v6"
+	switch ":dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:4,14"
+	switch ":dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:83,14_f"
+	switch "IStub-:dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:v81+:dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:v83+:dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:v85"
+	switch "Stub-:dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:v81+:dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:v83+:dsiswitch_top@[DSI=(0,4)][side=top]:dsihc_top:v85==>:ioport2:inputs1_mux.in_1"
+	switch ":ioport2:inputs1_mux.pin1__pin_input==>:ioport2:pin1.pin_input"
+	term   ":ioport2:pin1.pin_input"
+end Net_6
