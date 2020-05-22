@@ -2,7 +2,7 @@
 --	Conversion of 09_3_bit_counter.v to vh2:
 --
 --	Cypress Semiconductor - WARP Version 6.3 IR 41
---	Fri May 22 15:47:42 2020
+--	Fri May 22 22:19:41 2020
 --
 
 USE cypress.cypress.all;
@@ -1278,7 +1278,7 @@ Clock_1:cy_clock_v1_0
 		id=>"c7603e2d-47dd-4d4e-8427-0254c731d70f",
 		source_clock_id=>"",
 		divisor=>0,
-		period=>"33333333333333.3",
+		period=>"16666666666666.7",
 		is_direct=>'0',
 		is_digital=>'1')
 	PORT MAP(clock_out=>Net_54,

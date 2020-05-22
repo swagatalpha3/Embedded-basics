@@ -1,15 +1,15 @@
-D:\h_da\Lecturs\Basic Embedded\Embedded_basics\00_blink_LED.cydsn\00_blink_LED.cyprj|d78037eb-74f7-41cb-b6cc-6a808fa57a24
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|53d951de-0413-4326-b09a-8fd9138648bf
-C:\Users\swaga\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|8c503d57-7f95-4999-a4f4-69a0395511a1
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|f7aa328f-2193-42b9-8d65-4bc958966294
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1db9ca98-668e-4774-bc91-8f0726a21c7a
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|819c9e79-253d-4434-8940-fbe97249bfec
-D:\h_da\Lecturs\Basic Embedded\Embedded_basics\01_LED_SW_BLINK.cydsn\01_LED_SW_BLINK.cyprj|d139f3a5-a16f-4d70-acd1-5af631b1ca8b
-D:\h_da\Lecturs\Basic Embedded\Embedded_basics\02_LED_BUTTON_HW.cydsn\02_LED_BUTTON_HW.cyprj|4c699cc9-20df-43c0-89bd-f1c5932ceebd
-D:\h_da\Lecturs\Basic Embedded\Embedded_basics\03_LED_BUTTON_SW.cydsn\03_LED_BUTTON_SW.cyprj|2d6ea611-5f03-45de-a70d-7f29a3778f60
-D:\h_da\Lecturs\Basic Embedded\Embedded_basics\04_POT_LED_BRIGHTNESS.cydsn\04_POT_LED_BRIGHTNESS.cyprj|1d2d12e8-656c-441f-9bb0-1345a0dbcdb8
-D:\h_da\Lecturs\Basic Embedded\Embedded_basics\05_UART_INTRO.cydsn\05_UART_INTRO.cyprj|d40d781a-68af-4d6d-a4e1-18dcc74359b2
-D:\h_da\Lecturs\Basic Embedded\Embedded_basics\06_UART_LED_STATUS.cydsn\06_UART_LED_STATUS.cyprj|975259f8-8dd2-4571-ae5a-6c22dad2661f
-D:\h_da\Lecturs\Basic Embedded\Embedded_basics\07_UART_LED_CONTROL_KEYBOARD.cydsn\07_UART_LED_CONTROL_KEYBOARD.cyprj|e14a5426-694f-42a4-aaab-30e3c85e2d4d
-D:\h_da\Lecturs\Basic Embedded\Embedded_basics\08_CAPACITOR_PWM.cydsn\08_CAPACITOR_PWM.cyprj|648141c1-3ea5-4a4e-bc7e-0aa146df6326
-D:\h_da\Lecturs\Basic Embedded\Embedded_basics\09_3_bit_counter.cydsn\09_3_bit_counter.cyprj|3123e8bb-f0f4-4fad-90c4-5fe4dd9668fd
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\00_blink_LED.cydsn\00_blink_LED.cyprj|a757ccd4-ddb4-4c8e-91b8-3ffebe9b3e59
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|0a068079-6aa6-4545-9429-bc5311636d15
+C:\Users\swaga\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|cacc8d32-f771-4fa0-a6fb-056c4d872421
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|1ad81bd2-df56-4f97-baf7-b01f48d127b9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|55432098-8637-4cd7-b318-cdb9d33934a0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a8682ddc-d495-4785-8454-43a8fc660465
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\01_LED_SW_BLINK.cydsn\01_LED_SW_BLINK.cyprj|618aec48-6196-4c7c-82f9-e70cd481d03d
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\02_LED_BUTTON_HW.cydsn\02_LED_BUTTON_HW.cyprj|e6cdf736-df40-4fe1-8f4f-a987be1a3a6e
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\03_LED_BUTTON_SW.cydsn\03_LED_BUTTON_SW.cyprj|90ebb0f0-47ef-44ee-84f0-a4980df9424c
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\04_POT_LED_BRIGHTNESS.cydsn\04_POT_LED_BRIGHTNESS.cyprj|baed2f90-5c74-47f6-962f-685a6dd699e8
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\05_UART_INTRO.cydsn\05_UART_INTRO.cyprj|5d82a1e9-3e28-4d38-9a2b-715d3b13f3bc
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\06_UART_LED_STATUS.cydsn\06_UART_LED_STATUS.cyprj|5bc822e2-e79c-415d-8f78-e1397c950770
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\07_UART_LED_CONTROL_KEYBOARD.cydsn\07_UART_LED_CONTROL_KEYBOARD.cyprj|cfb8026b-f8d9-4bb9-952f-5363d1bd2fc6
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\08_CAPACITOR_PWM.cydsn\08_CAPACITOR_PWM.cyprj|966bcd8f-fccc-4bdf-b339-683ed40e07bc
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\09_3_bit_counter.cydsn\09_3_bit_counter.cyprj|ebb1fa2b-e193-4416-a2fc-03194de5500b

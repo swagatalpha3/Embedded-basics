@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Embedded_basics\08_CAPACITOR_PWM">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Embedded_basics\08_CAPACITOR_PWM\Source Files\main.c">
 <ExpandedNodeIds>
 <v>Embedded_basics</v>
 <v>Embedded_basics\00_blink_LED\TopDesign</v>
@@ -151,6 +151,7 @@
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\Source Files\main.c</v>
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\Generated_Source</v>
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\Generated_Source\PSoC5</v>
+<v>Embedded_basics\08_CAPACITOR_PWM</v>
 <v>Embedded_basics\08_CAPACITOR_PWM\TopDesign</v>
 <v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr</v>
 <v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Pins</v>
@@ -198,23 +199,33 @@
 <v>Embedded_basics\06_UART_LED_STATUS</v>
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD</v>
 <v>Embedded_basics\08_CAPACITOR_PWM</v>
-<v>Embedded_basics\09_3_bit_counter</v>
-<v>Embedded_basics\09_3_bit_counter\TopDesign</v>
-<v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr</v>
-<v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr\Pins</v>
-<v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr\Analog</v>
-<v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr\Clocks</v>
-<v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr\Interrupts</v>
-<v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr\DMA</v>
-<v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr\System</v>
-<v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr\Directives</v>
-<v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr\Flash Security</v>
-<v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr\EEPROM</v>
-<v>Embedded_basics\09_3_bit_counter\Header Files</v>
-<v>Embedded_basics\09_3_bit_counter\Header Files\cyapicallbacks.h</v>
-<v>Embedded_basics\09_3_bit_counter\Source Files</v>
-<v>Embedded_basics\09_3_bit_counter\Source Files\main.c</v>
-<v>Embedded_basics\09_3_bit_counter\Generated_Source</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\TopDesign</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Pins</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Analog</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Clocks</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Interrupts</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\DMA</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\System</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Directives</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Flash Security</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\EEPROM</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Header Files</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Header Files\cyapicallbacks.h</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Source Files</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Source Files\main.c</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC_IRQ</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC_out</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC_out_IRQ</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC_out_theACLK</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC_theACLK</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\CAP_OUT</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\capacitor</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\Clock</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\cy_boot</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -642,42 +653,88 @@
 <v>Embedded_basics\00_blink_LED\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\00_blink_LED\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\00_blink_LED\System Reference Guides</v>
+<v>Embedded_basics\00_blink_LED\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\00_blink_LED\cy_clock_v2_20.pdf</v>
+<v>Embedded_basics\00_blink_LED\cy_pins_v2_20.pdf</v>
 <v>Embedded_basics\01_LED_SW_BLINK</v>
 <v>Embedded_basics\01_LED_SW_BLINK\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\01_LED_SW_BLINK\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\01_LED_SW_BLINK\System Reference Guides</v>
+<v>Embedded_basics\01_LED_SW_BLINK\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\01_LED_SW_BLINK\cy_pins_v2_20.pdf</v>
 <v>Embedded_basics\02_LED_BUTTON_HW</v>
 <v>Embedded_basics\02_LED_BUTTON_HW\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\02_LED_BUTTON_HW\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\02_LED_BUTTON_HW\System Reference Guides</v>
+<v>Embedded_basics\02_LED_BUTTON_HW\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\02_LED_BUTTON_HW\cy_pins_v2_20</v>
+<v>Embedded_basics\02_LED_BUTTON_HW\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
 <v>Embedded_basics\03_LED_BUTTON_SW</v>
 <v>Embedded_basics\03_LED_BUTTON_SW\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\03_LED_BUTTON_SW\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\03_LED_BUTTON_SW\System Reference Guides</v>
+<v>Embedded_basics\03_LED_BUTTON_SW\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\03_LED_BUTTON_SW\cy_pins_v2_20</v>
+<v>Embedded_basics\03_LED_BUTTON_SW\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
 <v>Embedded_basics\04_POT_LED_BRIGHTNESS</v>
 <v>Embedded_basics\04_POT_LED_BRIGHTNESS\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\04_POT_LED_BRIGHTNESS\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\04_POT_LED_BRIGHTNESS\System Reference Guides</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\ADC_SAR_v3_10.pdf</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\cy_clock_v2_20.pdf</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\cy_pins_v2_20</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\PWM_v3_30.pdf</v>
 <v>Embedded_basics\05_UART_INTRO</v>
 <v>Embedded_basics\05_UART_INTRO\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\05_UART_INTRO\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\05_UART_INTRO\System Reference Guides</v>
+<v>Embedded_basics\05_UART_INTRO\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\05_UART_INTRO\cy_pins_v2_20</v>
+<v>Embedded_basics\05_UART_INTRO\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\05_UART_INTRO\UART_v2_50.pdf</v>
 <v>Embedded_basics\06_UART_LED_STATUS</v>
 <v>Embedded_basics\06_UART_LED_STATUS\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\06_UART_LED_STATUS\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\06_UART_LED_STATUS\System Reference Guides</v>
+<v>Embedded_basics\06_UART_LED_STATUS\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\06_UART_LED_STATUS\cy_isr_v1_70.pdf</v>
+<v>Embedded_basics\06_UART_LED_STATUS\cy_pins_v2_20</v>
+<v>Embedded_basics\06_UART_LED_STATUS\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\06_UART_LED_STATUS\UART_v2_50.pdf</v>
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD</v>
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\System Reference Guides</v>
+<v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\cy_isr_v1_70.pdf</v>
+<v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\cy_pins_v2_20</v>
+<v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\UART_v2_50.pdf</v>
 <v>Embedded_basics\08_CAPACITOR_PWM</v>
 <v>Embedded_basics\08_CAPACITOR_PWM\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\08_CAPACITOR_PWM\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\08_CAPACITOR_PWM\System Reference Guides</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\ADC_SAR_v3_10</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\ADC_SAR_v3_10\ADC_SAR_v3_10.pdf</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\cy_clock_v2_20.pdf</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\cy_pins_v2_20</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\PWM_v3_30.pdf</v>
+<v>Embedded_basics\08_CAPACITOR_PWM\UART_v2_50.pdf</v>
 <v>Embedded_basics\09_3_bit_counter</v>
 <v>Embedded_basics\09_3_bit_counter\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\09_3_bit_counter\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\09_3_bit_counter\System Reference Guides</v>
+<v>Embedded_basics\09_3_bit_counter\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\09_3_bit_counter\cy_clock_v2_20.pdf</v>
+<v>Embedded_basics\09_3_bit_counter\cy_isr_v1_70.pdf</v>
+<v>Embedded_basics\09_3_bit_counter\cy_pins_v2_20</v>
+<v>Embedded_basics\09_3_bit_counter\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\09_3_bit_counter\Debouncer_v1_0.pdf</v>
+<v>Embedded_basics\09_3_bit_counter\UART_v2_50.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>Embedded_basics</v>
@@ -685,38 +742,38 @@
 <v>Embedded_basics\00_blink_LED\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\00_blink_LED\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\00_blink_LED\System Reference Guides</v>
+<v>Embedded_basics\00_blink_LED\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\00_blink_LED\cy_clock_v2_20.pdf</v>
+<v>Embedded_basics\00_blink_LED\cy_pins_v2_20.pdf</v>
 <v>Embedded_basics\01_LED_SW_BLINK</v>
 <v>Embedded_basics\01_LED_SW_BLINK\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\01_LED_SW_BLINK\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\01_LED_SW_BLINK\System Reference Guides</v>
+<v>Embedded_basics\01_LED_SW_BLINK\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\01_LED_SW_BLINK\cy_pins_v2_20.pdf</v>
 <v>Embedded_basics\02_LED_BUTTON_HW</v>
 <v>Embedded_basics\02_LED_BUTTON_HW\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\02_LED_BUTTON_HW\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\02_LED_BUTTON_HW\System Reference Guides</v>
+<v>Embedded_basics\02_LED_BUTTON_HW\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\02_LED_BUTTON_HW\cy_pins_v2_20</v>
+<v>Embedded_basics\02_LED_BUTTON_HW\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
 <v>Embedded_basics\03_LED_BUTTON_SW</v>
 <v>Embedded_basics\03_LED_BUTTON_SW\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\03_LED_BUTTON_SW\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\03_LED_BUTTON_SW\System Reference Guides</v>
+<v>Embedded_basics\03_LED_BUTTON_SW\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\03_LED_BUTTON_SW\cy_pins_v2_20</v>
+<v>Embedded_basics\03_LED_BUTTON_SW\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
 <v>Embedded_basics\04_POT_LED_BRIGHTNESS</v>
 <v>Embedded_basics\04_POT_LED_BRIGHTNESS\PSoC 5LP Architecture TRM</v>
 <v>Embedded_basics\04_POT_LED_BRIGHTNESS\CY8C58LP Family Datasheet</v>
 <v>Embedded_basics\04_POT_LED_BRIGHTNESS\System Reference Guides</v>
-<v>Embedded_basics\05_UART_INTRO</v>
-<v>Embedded_basics\05_UART_INTRO\PSoC 5LP Architecture TRM</v>
-<v>Embedded_basics\05_UART_INTRO\CY8C58LP Family Datasheet</v>
-<v>Embedded_basics\05_UART_INTRO\System Reference Guides</v>
-<v>Embedded_basics\06_UART_LED_STATUS</v>
-<v>Embedded_basics\06_UART_LED_STATUS\PSoC 5LP Architecture TRM</v>
-<v>Embedded_basics\06_UART_LED_STATUS\CY8C58LP Family Datasheet</v>
-<v>Embedded_basics\06_UART_LED_STATUS\System Reference Guides</v>
-<v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD</v>
-<v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\PSoC 5LP Architecture TRM</v>
-<v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\CY8C58LP Family Datasheet</v>
-<v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\System Reference Guides</v>
-<v>Embedded_basics\08_CAPACITOR_PWM</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\PSoC 5LP Architecture TRM</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\CY8C58LP Family Datasheet</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\System Reference Guides</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\ADC_SAR_v3_10.pdf</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\cy_clock_v2_20.pdf</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\cy_pins_v2_20</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
@@ -733,6 +790,8 @@
 <OpenDocs>
 <name v=".\09_3_bit_counter.cydsn\TopDesign\TopDesign.cysch" />
 <name v=".\09_3_bit_counter.cydsn\main.c" />
+<name v=".\09_3_bit_counter.cydsn\09_3_bit_counter.cydwr" />
+<name v=".\08_CAPACITOR_PWM.cydsn\main.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -740,7 +799,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="797, 572" SelectedTabbedMdiWindow="371166e6-4e0d-4d23-959a-173181123216"><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\09_3_bit_counter.cydsn\TopDesign\TopDesign.cysch" Guid="24e7b70e-930f-4c49-99c8-fc9d21d26e47" /><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\09_3_bit_counter.cydsn\main.c" Guid="371166e6-4e0d-4d23-959a-173181123216" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="cb6fdc78-db2b-4c4e-ac8d-16d57de78d0d" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="797, 424" SelectedTabbedMdiWindow="371166e6-4e0d-4d23-959a-173181123216"><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\09_3_bit_counter.cydsn\TopDesign\TopDesign.cysch" Guid="24e7b70e-930f-4c49-99c8-fc9d21d26e47" /><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\09_3_bit_counter.cydsn\main.c" Guid="371166e6-4e0d-4d23-959a-173181123216" /><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\09_3_bit_counter.cydsn\09_3_bit_counter.cydwr" Guid="e257d035-e037-4ee8-808e-1f9098e6a380" /><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\08_CAPACITOR_PWM.cydsn\main.c" Guid="98e2fc53-d437-4a78-b402-8722f68496e2" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

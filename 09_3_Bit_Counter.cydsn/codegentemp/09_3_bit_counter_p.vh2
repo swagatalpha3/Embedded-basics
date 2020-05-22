@@ -1,5 +1,5 @@
 -- Project:   09_3_bit_counter
--- Generated: 05/22/2020 15:47:43
+-- Generated: 05/22/2020 22:19:42
 -- PSoC Creator  4.2
 
 ENTITY \09_3_bit_counter\ IS

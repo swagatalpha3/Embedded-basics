@@ -1,6 +1,6 @@
 // ======================================================================
 // 09_3_bit_counter.v generated from TopDesign.cysch
-// 05/22/2020 at 15:47
+// 05/22/2020 at 22:19
 // This file is auto generated. ANY EDITS YOU MAKE MAY BE LOST WHEN THIS FILE IS REGENERATED!!!
 // ======================================================================
 
@@ -788,7 +788,7 @@ module top ;
 		#(.id("c7603e2d-47dd-4d4e-8427-0254c731d70f"),
 		  .source_clock_id(""),
 		  .divisor(0),
-		  .period("33333333333333.3"),
+		  .period("16666666666666.7"),
 		  .is_direct(0),
 		  .is_digital(1))
 		Clock_1
