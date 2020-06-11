@@ -1,0 +1,1571 @@
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 1
+
+
+   1              		.syntax unified
+   2              		.cpu cortex-m3
+   3              		.fpu softvfp
+   4              		.eabi_attribute 20, 1
+   5              		.eabi_attribute 21, 1
+   6              		.eabi_attribute 23, 3
+   7              		.eabi_attribute 24, 1
+   8              		.eabi_attribute 25, 1
+   9              		.eabi_attribute 26, 1
+  10              		.eabi_attribute 30, 1
+  11              		.eabi_attribute 34, 1
+  12              		.eabi_attribute 18, 4
+  13              		.thumb
+  14              		.syntax unified
+  15              		.file	"cymetadata.c"
+  16              		.text
+  17              	.Ltext0:
+  18              		.cfi_sections	.debug_frame
+  19              		.global	cy_metadata
+  20              		.global	cy_meta_flashprotect
+  21              		.global	cy_meta_wonvl
+  22              		.global	cy_meta_custnvl
+  23              		.global	cy_meta_configecc
+  24              		.section	.cyconfigecc,"a",%progbits
+  25              		.align	2
+  26              		.type	cy_meta_configecc, %object
+  27              		.size	cy_meta_configecc, 1028
+  28              	cy_meta_configecc:
+  29 0000 02       		.byte	2
+  30 0001 52       		.byte	82
+  31 0002 00       		.byte	0
+  32 0003 40       		.byte	64
+  33 0004 01       		.byte	1
+  34 0005 64       		.byte	100
+  35 0006 00       		.byte	0
+  36 0007 40       		.byte	64
+  37 0008 02       		.byte	2
+  38 0009 65       		.byte	101
+  39 000a 00       		.byte	0
+  40 000b 40       		.byte	64
+  41 000c 01       		.byte	1
+  42 000d 07       		.byte	7
+  43 000e 01       		.byte	1
+  44 000f 40       		.byte	64
+  45 0010 61       		.byte	97
+  46 0011 08       		.byte	8
+  47 0012 01       		.byte	1
+  48 0013 40       		.byte	64
+  49 0014 37       		.byte	55
+  50 0015 09       		.byte	9
+  51 0016 01       		.byte	1
+  52 0017 40       		.byte	64
+  53 0018 04       		.byte	4
+  54 0019 0A       		.byte	10
+  55 001a 01       		.byte	1
+  56 001b 40       		.byte	64
+  57 001c 01       		.byte	1
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 2
+
+
+  58 001d 0B       		.byte	11
+  59 001e 01       		.byte	1
+  60 001f 40       		.byte	64
+  61 0020 02       		.byte	2
+  62 0021 15       		.byte	21
+  63 0022 01       		.byte	1
+  64 0023 40       		.byte	64
+  65 0024 46       		.byte	70
+  66 0025 18       		.byte	24
+  67 0026 01       		.byte	1
+  68 0027 40       		.byte	64
+  69 0028 2F       		.byte	47
+  70 0029 19       		.byte	25
+  71 002a 01       		.byte	1
+  72 002b 40       		.byte	64
+  73 002c 3B       		.byte	59
+  74 002d 1A       		.byte	26
+  75 002e 01       		.byte	1
+  76 002f 40       		.byte	64
+  77 0030 3B       		.byte	59
+  78 0031 1B       		.byte	27
+  79 0032 01       		.byte	1
+  80 0033 40       		.byte	64
+  81 0034 03       		.byte	3
+  82 0035 40       		.byte	64
+  83 0036 01       		.byte	1
+  84 0037 40       		.byte	64
+  85 0038 01       		.byte	1
+  86 0039 41       		.byte	65
+  87 003a 01       		.byte	1
+  88 003b 40       		.byte	64
+  89 003c 01       		.byte	1
+  90 003d 42       		.byte	66
+  91 003e 01       		.byte	1
+  92 003f 40       		.byte	64
+  93 0040 03       		.byte	3
+  94 0041 43       		.byte	67
+  95 0042 01       		.byte	1
+  96 0043 40       		.byte	64
+  97 0044 02       		.byte	2
+  98 0045 44       		.byte	68
+  99 0046 01       		.byte	1
+ 100 0047 40       		.byte	64
+ 101 0048 01       		.byte	1
+ 102 0049 45       		.byte	69
+ 103 004a 01       		.byte	1
+ 104 004b 40       		.byte	64
+ 105 004c 03       		.byte	3
+ 106 004d 46       		.byte	70
+ 107 004e 01       		.byte	1
+ 108 004f 40       		.byte	64
+ 109 0050 03       		.byte	3
+ 110 0051 47       		.byte	71
+ 111 0052 01       		.byte	1
+ 112 0053 40       		.byte	64
+ 113 0054 03       		.byte	3
+ 114 0055 48       		.byte	72
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 3
+
+
+ 115 0056 01       		.byte	1
+ 116 0057 40       		.byte	64
+ 117 0058 04       		.byte	4
+ 118 0059 49       		.byte	73
+ 119 005a 01       		.byte	1
+ 120 005b 40       		.byte	64
+ 121 005c 01       		.byte	1
+ 122 005d 4C       		.byte	76
+ 123 005e 01       		.byte	1
+ 124 005f 40       		.byte	64
+ 125 0060 0A       		.byte	10
+ 126 0061 4D       		.byte	77
+ 127 0062 01       		.byte	1
+ 128 0063 40       		.byte	64
+ 129 0064 04       		.byte	4
+ 130 0065 50       		.byte	80
+ 131 0066 01       		.byte	1
+ 132 0067 40       		.byte	64
+ 133 0068 01       		.byte	1
+ 134 0069 51       		.byte	81
+ 135 006a 01       		.byte	1
+ 136 006b 40       		.byte	64
+ 137 006c 61       		.byte	97
+ 138 006d 80       		.byte	-128
+ 139 006e 64       		.byte	100
+ 140 006f 40       		.byte	64
+ 141 0070 88       		.byte	-120
+ 142 0071 0F       		.byte	15
+ 143 0072 88       		.byte	-120
+ 144 0073 72       		.byte	114
+ 145 0074 8B       		.byte	-117
+ 146 0075 38       		.byte	56
+ 147 0076 E6       		.byte	-26
+ 148 0077 02       		.byte	2
+ 149 0078 00       		.byte	0
+ 150 0079 13       		.byte	19
+ 151 007a 02       		.byte	2
+ 152 007b 04       		.byte	4
+ 153 007c 06       		.byte	6
+ 154 007d 15       		.byte	21
+ 155 007e 0C       		.byte	12
+ 156 007f 13       		.byte	19
+ 157 0080 0E       		.byte	14
+ 158 0081 0C       		.byte	12
+ 159 0082 10       		.byte	16
+ 160 0083 0A       		.byte	10
+ 161 0084 11       		.byte	17
+ 162 0085 01       		.byte	1
+ 163 0086 12       		.byte	18
+ 164 0087 14       		.byte	20
+ 165 0088 18       		.byte	24
+ 166 0089 03       		.byte	3
+ 167 008a 1A       		.byte	26
+ 168 008b 14       		.byte	20
+ 169 008c 1D       		.byte	29
+ 170 008d 01       		.byte	1
+ 171 008e 22       		.byte	34
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 4
+
+
+ 172 008f 08       		.byte	8
+ 173 0090 25       		.byte	37
+ 174 0091 04       		.byte	4
+ 175 0092 29       		.byte	41
+ 176 0093 02       		.byte	2
+ 177 0094 2F       		.byte	47
+ 178 0095 01       		.byte	1
+ 179 0096 30       		.byte	48
+ 180 0097 10       		.byte	16
+ 181 0098 35       		.byte	53
+ 182 0099 04       		.byte	4
+ 183 009a 36       		.byte	54
+ 184 009b 0F       		.byte	15
+ 185 009c 37       		.byte	55
+ 186 009d 03       		.byte	3
+ 187 009e 39       		.byte	57
+ 188 009f 80       		.byte	-128
+ 189 00a0 3A       		.byte	58
+ 190 00a1 80       		.byte	-128
+ 191 00a2 3E       		.byte	62
+ 192 00a3 01       		.byte	1
+ 193 00a4 3F       		.byte	63
+ 194 00a5 10       		.byte	16
+ 195 00a6 40       		.byte	64
+ 196 00a7 46       		.byte	70
+ 197 00a8 41       		.byte	65
+ 198 00a9 01       		.byte	1
+ 199 00aa 45       		.byte	69
+ 200 00ab 0C       		.byte	12
+ 201 00ac 46       		.byte	70
+ 202 00ad E0       		.byte	-32
+ 203 00ae 47       		.byte	71
+ 204 00af 0B       		.byte	11
+ 205 00b0 48       		.byte	72
+ 206 00b1 19       		.byte	25
+ 207 00b2 49       		.byte	73
+ 208 00b3 FF       		.byte	-1
+ 209 00b4 4A       		.byte	74
+ 210 00b5 FF       		.byte	-1
+ 211 00b6 4B       		.byte	75
+ 212 00b7 FF       		.byte	-1
+ 213 00b8 4E       		.byte	78
+ 214 00b9 F0       		.byte	-16
+ 215 00ba 4F       		.byte	79
+ 216 00bb 44       		.byte	68
+ 217 00bc 50       		.byte	80
+ 218 00bd 0C       		.byte	12
+ 219 00be 54       		.byte	84
+ 220 00bf 01       		.byte	1
+ 221 00c0 56       		.byte	86
+ 222 00c1 04       		.byte	4
+ 223 00c2 58       		.byte	88
+ 224 00c3 04       		.byte	4
+ 225 00c4 59       		.byte	89
+ 226 00c5 04       		.byte	4
+ 227 00c6 5A       		.byte	90
+ 228 00c7 04       		.byte	4
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 5
+
+
+ 229 00c8 5B       		.byte	91
+ 230 00c9 04       		.byte	4
+ 231 00ca 5C       		.byte	92
+ 232 00cb 11       		.byte	17
+ 233 00cc 5D       		.byte	93
+ 234 00cd 11       		.byte	17
+ 235 00ce 5F       		.byte	95
+ 236 00cf 01       		.byte	1
+ 237 00d0 66       		.byte	102
+ 238 00d1 C0       		.byte	-64
+ 239 00d2 6A       		.byte	106
+ 240 00d3 40       		.byte	64
+ 241 00d4 6B       		.byte	107
+ 242 00d5 02       		.byte	2
+ 243 00d6 80       		.byte	-128
+ 244 00d7 10       		.byte	16
+ 245 00d8 82       		.byte	-126
+ 246 00d9 AC       		.byte	-84
+ 247 00da 86       		.byte	-122
+ 248 00db 03       		.byte	3
+ 249 00dc 87       		.byte	-121
+ 250 00dd 13       		.byte	19
+ 251 00de 8B       		.byte	-117
+ 252 00df 08       		.byte	8
+ 253 00e0 8C       		.byte	-116
+ 254 00e1 0C       		.byte	12
+ 255 00e2 8E       		.byte	-114
+ 256 00e3 71       		.byte	113
+ 257 00e4 90       		.byte	-112
+ 258 00e5 DC       		.byte	-36
+ 259 00e6 91       		.byte	-111
+ 260 00e7 2C       		.byte	44
+ 261 00e8 92       		.byte	-110
+ 262 00e9 22       		.byte	34
+ 263 00ea 93       		.byte	-109
+ 264 00eb 03       		.byte	3
+ 265 00ec 94       		.byte	-108
+ 266 00ed 10       		.byte	16
+ 267 00ee 96       		.byte	-106
+ 268 00ef 40       		.byte	64
+ 269 00f0 9F       		.byte	-97
+ 270 00f1 0C       		.byte	12
+ 271 00f2 A0       		.byte	-96
+ 272 00f3 09       		.byte	9
+ 273 00f4 A1       		.byte	-95
+ 274 00f5 31       		.byte	49
+ 275 00f6 A2       		.byte	-94
+ 276 00f7 D0       		.byte	-48
+ 277 00f8 A3       		.byte	-93
+ 278 00f9 0E       		.byte	14
+ 279 00fa A4       		.byte	-92
+ 280 00fb 14       		.byte	20
+ 281 00fc AA       		.byte	-86
+ 282 00fd 20       		.byte	32
+ 283 00fe AD       		.byte	-83
+ 284 00ff 31       		.byte	49
+ 285 0100 AF       		.byte	-81
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 6
+
+
+ 286 0101 06       		.byte	6
+ 287 0102 B0       		.byte	-80
+ 288 0103 E0       		.byte	-32
+ 289 0104 B1       		.byte	-79
+ 290 0105 0F       		.byte	15
+ 291 0106 B3       		.byte	-77
+ 292 0107 30       		.byte	48
+ 293 0108 B4       		.byte	-76
+ 294 0109 1F       		.byte	31
+ 295 010a B9       		.byte	-71
+ 296 010b 08       		.byte	8
+ 297 010c BA       		.byte	-70
+ 298 010d 02       		.byte	2
+ 299 010e BB       		.byte	-69
+ 300 010f 02       		.byte	2
+ 301 0110 BF       		.byte	-65
+ 302 0111 04       		.byte	4
+ 303 0112 C0       		.byte	-64
+ 304 0113 03       		.byte	3
+ 305 0114 C6       		.byte	-58
+ 306 0115 40       		.byte	64
+ 307 0116 C9       		.byte	-55
+ 308 0117 FF       		.byte	-1
+ 309 0118 CA       		.byte	-54
+ 310 0119 07       		.byte	7
+ 311 011a CB       		.byte	-53
+ 312 011b FF       		.byte	-1
+ 313 011c CC       		.byte	-52
+ 314 011d 40       		.byte	64
+ 315 011e CD       		.byte	-51
+ 316 011f 20       		.byte	32
+ 317 0120 CE       		.byte	-50
+ 318 0121 F0       		.byte	-16
+ 319 0122 CF       		.byte	-49
+ 320 0123 05       		.byte	5
+ 321 0124 D0       		.byte	-48
+ 322 0125 08       		.byte	8
+ 323 0126 D8       		.byte	-40
+ 324 0127 04       		.byte	4
+ 325 0128 D9       		.byte	-39
+ 326 0129 04       		.byte	4
+ 327 012a DA       		.byte	-38
+ 328 012b 04       		.byte	4
+ 329 012c DC       		.byte	-36
+ 330 012d 11       		.byte	17
+ 331 012e DD       		.byte	-35
+ 332 012f 01       		.byte	1
+ 333 0130 DF       		.byte	-33
+ 334 0131 01       		.byte	1
+ 335 0132 E0       		.byte	-32
+ 336 0133 40       		.byte	64
+ 337 0134 E1       		.byte	-31
+ 338 0135 A8       		.byte	-88
+ 339 0136 E2       		.byte	-30
+ 340 0137 40       		.byte	64
+ 341 0138 E3       		.byte	-29
+ 342 0139 20       		.byte	32
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 7
+
+
+ 343 013a 00       		.byte	0
+ 344 013b 04       		.byte	4
+ 345 013c 02       		.byte	2
+ 346 013d 41       		.byte	65
+ 347 013e 04       		.byte	4
+ 348 013f 08       		.byte	8
+ 349 0140 05       		.byte	5
+ 350 0141 41       		.byte	65
+ 351 0142 08       		.byte	8
+ 352 0143 20       		.byte	32
+ 353 0144 09       		.byte	9
+ 354 0145 02       		.byte	2
+ 355 0146 0B       		.byte	11
+ 356 0147 24       		.byte	36
+ 357 0148 0D       		.byte	13
+ 358 0149 02       		.byte	2
+ 359 014a 0F       		.byte	15
+ 360 014b 04       		.byte	4
+ 361 014c 10       		.byte	16
+ 362 014d 08       		.byte	8
+ 363 014e 11       		.byte	17
+ 364 014f 08       		.byte	8
+ 365 0150 12       		.byte	18
+ 366 0151 80       		.byte	-128
+ 367 0152 17       		.byte	23
+ 368 0153 01       		.byte	1
+ 369 0154 18       		.byte	24
+ 370 0155 04       		.byte	4
+ 371 0156 19       		.byte	25
+ 372 0157 21       		.byte	33
+ 373 0158 1D       		.byte	29
+ 374 0159 40       		.byte	64
+ 375 015a 1E       		.byte	30
+ 376 015b 40       		.byte	64
+ 377 015c 21       		.byte	33
+ 378 015d 06       		.byte	6
+ 379 015e 26       		.byte	38
+ 380 015f 80       		.byte	-128
+ 381 0160 27       		.byte	39
+ 382 0161 09       		.byte	9
+ 383 0162 29       		.byte	41
+ 384 0163 41       		.byte	65
+ 385 0164 2A       		.byte	42
+ 386 0165 41       		.byte	65
+ 387 0166 2C       		.byte	44
+ 388 0167 08       		.byte	8
+ 389 0168 2F       		.byte	47
+ 390 0169 22       		.byte	34
+ 391 016a 31       		.byte	49
+ 392 016b 02       		.byte	2
+ 393 016c 32       		.byte	50
+ 394 016d 80       		.byte	-128
+ 395 016e 33       		.byte	51
+ 396 016f 02       		.byte	2
+ 397 0170 35       		.byte	53
+ 398 0171 41       		.byte	65
+ 399 0172 38       		.byte	56
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 8
+
+
+ 400 0173 08       		.byte	8
+ 401 0174 3B       		.byte	59
+ 402 0175 20       		.byte	32
+ 403 0176 41       		.byte	65
+ 404 0177 04       		.byte	4
+ 405 0178 46       		.byte	70
+ 406 0179 41       		.byte	65
+ 407 017a 4C       		.byte	76
+ 408 017b 04       		.byte	4
+ 409 017c 4F       		.byte	79
+ 410 017d 04       		.byte	4
+ 411 017e 50       		.byte	80
+ 412 017f 0C       		.byte	12
+ 413 0180 53       		.byte	83
+ 414 0181 10       		.byte	16
+ 415 0182 55       		.byte	85
+ 416 0183 04       		.byte	4
+ 417 0184 57       		.byte	87
+ 418 0185 20       		.byte	32
+ 419 0186 5C       		.byte	92
+ 420 0187 20       		.byte	32
+ 421 0188 5D       		.byte	93
+ 422 0189 02       		.byte	2
+ 423 018a 5E       		.byte	94
+ 424 018b 40       		.byte	64
+ 425 018c 5F       		.byte	95
+ 426 018d 08       		.byte	8
+ 427 018e 67       		.byte	103
+ 428 018f 40       		.byte	64
+ 429 0190 87       		.byte	-121
+ 430 0191 40       		.byte	64
+ 431 0192 B5       		.byte	-75
+ 432 0193 02       		.byte	2
+ 433 0194 C0       		.byte	-64
+ 434 0195 BD       		.byte	-67
+ 435 0196 C2       		.byte	-62
+ 436 0197 5C       		.byte	92
+ 437 0198 C4       		.byte	-60
+ 438 0199 1E       		.byte	30
+ 439 019a CA       		.byte	-54
+ 440 019b 79       		.byte	121
+ 441 019c CC       		.byte	-52
+ 442 019d 99       		.byte	-103
+ 443 019e CE       		.byte	-50
+ 444 019f 06       		.byte	6
+ 445 01a0 D0       		.byte	-48
+ 446 01a1 92       		.byte	-110
+ 447 01a2 D2       		.byte	-46
+ 448 01a3 20       		.byte	32
+ 449 01a4 D6       		.byte	-42
+ 450 01a5 F0       		.byte	-16
+ 451 01a6 D8       		.byte	-40
+ 452 01a7 80       		.byte	-128
+ 453 01a8 B8       		.byte	-72
+ 454 01a9 02       		.byte	2
+ 455 01aa BE       		.byte	-66
+ 456 01ab 01       		.byte	1
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 9
+
+
+ 457 01ac D8       		.byte	-40
+ 458 01ad 04       		.byte	4
+ 459 01ae DF       		.byte	-33
+ 460 01af 01       		.byte	1
+ 461 01b0 1D       		.byte	29
+ 462 01b1 02       		.byte	2
+ 463 01b2 E6       		.byte	-26
+ 464 01b3 08       		.byte	8
+ 465 01b4 EC       		.byte	-20
+ 466 01b5 10       		.byte	16
+ 467 01b6 01       		.byte	1
+ 468 01b7 04       		.byte	4
+ 469 01b8 04       		.byte	4
+ 470 01b9 21       		.byte	33
+ 471 01ba 05       		.byte	5
+ 472 01bb 02       		.byte	2
+ 473 01bc 06       		.byte	6
+ 474 01bd 46       		.byte	70
+ 475 01be 09       		.byte	9
+ 476 01bf 06       		.byte	6
+ 477 01c0 0C       		.byte	12
+ 478 01c1 40       		.byte	64
+ 479 01c2 0E       		.byte	14
+ 480 01c3 A8       		.byte	-88
+ 481 01c4 0F       		.byte	15
+ 482 01c5 08       		.byte	8
+ 483 01c6 13       		.byte	19
+ 484 01c7 08       		.byte	8
+ 485 01c8 15       		.byte	21
+ 486 01c9 06       		.byte	6
+ 487 01ca 17       		.byte	23
+ 488 01cb 01       		.byte	1
+ 489 01cc 18       		.byte	24
+ 490 01cd 82       		.byte	-126
+ 491 01ce 19       		.byte	25
+ 492 01cf 01       		.byte	1
+ 493 01d0 1A       		.byte	26
+ 494 01d1 45       		.byte	69
+ 495 01d2 1B       		.byte	27
+ 496 01d3 06       		.byte	6
+ 497 01d4 1F       		.byte	31
+ 498 01d5 01       		.byte	1
+ 499 01d6 24       		.byte	36
+ 500 01d7 F3       		.byte	-13
+ 501 01d8 25       		.byte	37
+ 502 01d9 07       		.byte	7
+ 503 01da 28       		.byte	40
+ 504 01db F3       		.byte	-13
+ 505 01dc 2C       		.byte	44
+ 506 01dd 10       		.byte	16
+ 507 01de 2D       		.byte	45
+ 508 01df 07       		.byte	7
+ 509 01e0 30       		.byte	48
+ 510 01e1 E0       		.byte	-32
+ 511 01e2 31       		.byte	49
+ 512 01e3 07       		.byte	7
+ 513 01e4 32       		.byte	50
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 10
+
+
+ 514 01e5 10       		.byte	16
+ 515 01e6 34       		.byte	52
+ 516 01e7 03       		.byte	3
+ 517 01e8 36       		.byte	54
+ 518 01e9 0C       		.byte	12
+ 519 01ea 37       		.byte	55
+ 520 01eb 08       		.byte	8
+ 521 01ec 3E       		.byte	62
+ 522 01ed 40       		.byte	64
+ 523 01ee 3F       		.byte	63
+ 524 01ef 40       		.byte	64
+ 525 01f0 40       		.byte	64
+ 526 01f1 23       		.byte	35
+ 527 01f2 41       		.byte	65
+ 528 01f3 04       		.byte	4
+ 529 01f4 42       		.byte	66
+ 530 01f5 05       		.byte	5
+ 531 01f6 44       		.byte	68
+ 532 01f7 01       		.byte	1
+ 533 01f8 46       		.byte	70
+ 534 01f9 EC       		.byte	-20
+ 535 01fa 48       		.byte	72
+ 536 01fb 0C       		.byte	12
+ 537 01fc 49       		.byte	73
+ 538 01fd FF       		.byte	-1
+ 539 01fe 4A       		.byte	74
+ 540 01ff FF       		.byte	-1
+ 541 0200 4B       		.byte	75
+ 542 0201 FF       		.byte	-1
+ 543 0202 4C       		.byte	76
+ 544 0203 62       		.byte	98
+ 545 0204 4D       		.byte	77
+ 546 0205 A0       		.byte	-96
+ 547 0206 4E       		.byte	78
+ 548 0207 F0       		.byte	-16
+ 549 0208 4F       		.byte	79
+ 550 0209 41       		.byte	65
+ 551 020a 50       		.byte	80
+ 552 020b 0C       		.byte	12
+ 553 020c 56       		.byte	86
+ 554 020d 02       		.byte	2
+ 555 020e 57       		.byte	87
+ 556 020f 11       		.byte	17
+ 557 0210 58       		.byte	88
+ 558 0211 04       		.byte	4
+ 559 0212 59       		.byte	89
+ 560 0213 04       		.byte	4
+ 561 0214 5A       		.byte	90
+ 562 0215 04       		.byte	4
+ 563 0216 5B       		.byte	91
+ 564 0217 04       		.byte	4
+ 565 0218 5C       		.byte	92
+ 566 0219 11       		.byte	17
+ 567 021a 5D       		.byte	93
+ 568 021b 11       		.byte	17
+ 569 021c 5F       		.byte	95
+ 570 021d 01       		.byte	1
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 11
+
+
+ 571 021e 66       		.byte	102
+ 572 021f 40       		.byte	64
+ 573 0220 67       		.byte	103
+ 574 0221 02       		.byte	2
+ 575 0222 69       		.byte	105
+ 576 0223 10       		.byte	16
+ 577 0224 6A       		.byte	106
+ 578 0225 30       		.byte	48
+ 579 0226 6B       		.byte	107
+ 580 0227 10       		.byte	16
+ 581 0228 6D       		.byte	109
+ 582 0229 10       		.byte	16
+ 583 022a 6E       		.byte	110
+ 584 022b 10       		.byte	16
+ 585 022c 6F       		.byte	111
+ 586 022d 12       		.byte	18
+ 587 022e 91       		.byte	-111
+ 588 022f 01       		.byte	1
+ 589 0230 95       		.byte	-107
+ 590 0231 01       		.byte	1
+ 591 0232 99       		.byte	-103
+ 592 0233 01       		.byte	1
+ 593 0234 A5       		.byte	-91
+ 594 0235 01       		.byte	1
+ 595 0236 B3       		.byte	-77
+ 596 0237 01       		.byte	1
+ 597 0238 BB       		.byte	-69
+ 598 0239 02       		.byte	2
+ 599 023a BF       		.byte	-65
+ 600 023b 04       		.byte	4
+ 601 023c D9       		.byte	-39
+ 602 023d 04       		.byte	4
+ 603 023e DC       		.byte	-36
+ 604 023f 10       		.byte	16
+ 605 0240 DF       		.byte	-33
+ 606 0241 01       		.byte	1
+ 607 0242 04       		.byte	4
+ 608 0243 40       		.byte	64
+ 609 0244 05       		.byte	5
+ 610 0245 08       		.byte	8
+ 611 0246 0C       		.byte	12
+ 612 0247 10       		.byte	16
+ 613 0248 0E       		.byte	14
+ 614 0249 04       		.byte	4
+ 615 024a 15       		.byte	21
+ 616 024b 40       		.byte	64
+ 617 024c 16       		.byte	22
+ 618 024d 40       		.byte	64
+ 619 024e 17       		.byte	23
+ 620 024f 15       		.byte	21
+ 621 0250 1C       		.byte	28
+ 622 0251 40       		.byte	64
+ 623 0252 1D       		.byte	29
+ 624 0253 88       		.byte	-120
+ 625 0254 1E       		.byte	30
+ 626 0255 04       		.byte	4
+ 627 0256 21       		.byte	33
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 12
+
+
+ 628 0257 02       		.byte	2
+ 629 0258 23       		.byte	35
+ 630 0259 10       		.byte	16
+ 631 025a 26       		.byte	38
+ 632 025b 03       		.byte	3
+ 633 025c 27       		.byte	39
+ 634 025d 01       		.byte	1
+ 635 025e 2B       		.byte	43
+ 636 025f 20       		.byte	32
+ 637 0260 2C       		.byte	44
+ 638 0261 01       		.byte	1
+ 639 0262 2F       		.byte	47
+ 640 0263 20       		.byte	32
+ 641 0264 30       		.byte	48
+ 642 0265 01       		.byte	1
+ 643 0266 31       		.byte	49
+ 644 0267 26       		.byte	38
+ 645 0268 32       		.byte	50
+ 646 0269 20       		.byte	32
+ 647 026a 34       		.byte	52
+ 648 026b 40       		.byte	64
+ 649 026c 35       		.byte	53
+ 650 026d 04       		.byte	4
+ 651 026e 36       		.byte	54
+ 652 026f 21       		.byte	33
+ 653 0270 3E       		.byte	62
+ 654 0271 2A       		.byte	42
+ 655 0272 3F       		.byte	63
+ 656 0273 80       		.byte	-128
+ 657 0274 45       		.byte	69
+ 658 0275 AA       		.byte	-86
+ 659 0276 4E       		.byte	78
+ 660 0277 02       		.byte	2
+ 661 0278 56       		.byte	86
+ 662 0279 10       		.byte	16
+ 663 027a 57       		.byte	87
+ 664 027b 40       		.byte	64
+ 665 027c 5F       		.byte	95
+ 666 027d 10       		.byte	16
+ 667 027e 6D       		.byte	109
+ 668 027f 40       		.byte	64
+ 669 0280 6F       		.byte	111
+ 670 0281 14       		.byte	20
+ 671 0282 75       		.byte	117
+ 672 0283 80       		.byte	-128
+ 673 0284 76       		.byte	118
+ 674 0285 2A       		.byte	42
+ 675 0286 8D       		.byte	-115
+ 676 0287 48       		.byte	72
+ 677 0288 99       		.byte	-103
+ 678 0289 20       		.byte	32
+ 679 028a B1       		.byte	-79
+ 680 028b 02       		.byte	2
+ 681 028c B3       		.byte	-77
+ 682 028d 20       		.byte	32
+ 683 028e C0       		.byte	-64
+ 684 028f A0       		.byte	-96
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 13
+
+
+ 685 0290 C2       		.byte	-62
+ 686 0291 40       		.byte	64
+ 687 0292 C4       		.byte	-60
+ 688 0293 E0       		.byte	-32
+ 689 0294 CA       		.byte	-54
+ 690 0295 52       		.byte	82
+ 691 0296 CC       		.byte	-52
+ 692 0297 F7       		.byte	-9
+ 693 0298 CE       		.byte	-50
+ 694 0299 F0       		.byte	-16
+ 695 029a D0       		.byte	-48
+ 696 029b F0       		.byte	-16
+ 697 029c D2       		.byte	-46
+ 698 029d 10       		.byte	16
+ 699 029e D6       		.byte	-42
+ 700 029f 20       		.byte	32
+ 701 02a0 0B       		.byte	11
+ 702 02a1 02       		.byte	2
+ 703 02a2 13       		.byte	19
+ 704 02a3 02       		.byte	2
+ 705 02a4 15       		.byte	21
+ 706 02a5 01       		.byte	1
+ 707 02a6 1B       		.byte	27
+ 708 02a7 01       		.byte	1
+ 709 02a8 21       		.byte	33
+ 710 02a9 01       		.byte	1
+ 711 02aa 27       		.byte	39
+ 712 02ab 01       		.byte	1
+ 713 02ac 29       		.byte	41
+ 714 02ad 04       		.byte	4
+ 715 02ae 31       		.byte	49
+ 716 02af 01       		.byte	1
+ 717 02b0 33       		.byte	51
+ 718 02b1 04       		.byte	4
+ 719 02b2 35       		.byte	53
+ 720 02b3 02       		.byte	2
+ 721 02b4 39       		.byte	57
+ 722 02b5 02       		.byte	2
+ 723 02b6 3F       		.byte	63
+ 724 02b7 14       		.byte	20
+ 725 02b8 59       		.byte	89
+ 726 02b9 04       		.byte	4
+ 727 02ba 5C       		.byte	92
+ 728 02bb 10       		.byte	16
+ 729 02bc 5F       		.byte	95
+ 730 02bd 01       		.byte	1
+ 731 02be 81       		.byte	-127
+ 732 02bf 02       		.byte	2
+ 733 02c0 82       		.byte	-126
+ 734 02c1 01       		.byte	1
+ 735 02c2 83       		.byte	-125
+ 736 02c3 01       		.byte	1
+ 737 02c4 84       		.byte	-124
+ 738 02c5 19       		.byte	25
+ 739 02c6 85       		.byte	-123
+ 740 02c7 08       		.byte	8
+ 741 02c8 86       		.byte	-122
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 14
+
+
+ 742 02c9 E2       		.byte	-30
+ 743 02ca 88       		.byte	-120
+ 744 02cb 08       		.byte	8
+ 745 02cc 89       		.byte	-119
+ 746 02cd 18       		.byte	24
+ 747 02ce 8C       		.byte	-116
+ 748 02cf C0       		.byte	-64
+ 749 02d0 8D       		.byte	-115
+ 750 02d1 06       		.byte	6
+ 751 02d2 90       		.byte	-112
+ 752 02d3 41       		.byte	65
+ 753 02d4 94       		.byte	-108
+ 754 02d5 E7       		.byte	-25
+ 755 02d6 95       		.byte	-107
+ 756 02d7 1E       		.byte	30
+ 757 02d8 96       		.byte	-106
+ 758 02d9 18       		.byte	24
+ 759 02da 98       		.byte	-104
+ 760 02db 80       		.byte	-128
+ 761 02dc 99       		.byte	-103
+ 762 02dd 04       		.byte	4
+ 763 02de 9E       		.byte	-98
+ 764 02df E6       		.byte	-26
+ 765 02e0 9F       		.byte	-97
+ 766 02e1 06       		.byte	6
+ 767 02e2 A0       		.byte	-96
+ 768 02e3 10       		.byte	16
+ 769 02e4 A1       		.byte	-95
+ 770 02e5 1E       		.byte	30
+ 771 02e6 A4       		.byte	-92
+ 772 02e7 18       		.byte	24
+ 773 02e8 A5       		.byte	-91
+ 774 02e9 18       		.byte	24
+ 775 02ea A7       		.byte	-89
+ 776 02eb 06       		.byte	6
+ 777 02ec A8       		.byte	-88
+ 778 02ed 19       		.byte	25
+ 779 02ee A9       		.byte	-87
+ 780 02ef 06       		.byte	6
+ 781 02f0 AA       		.byte	-86
+ 782 02f1 E4       		.byte	-28
+ 783 02f2 AB       		.byte	-85
+ 784 02f3 18       		.byte	24
+ 785 02f4 AC       		.byte	-84
+ 786 02f5 FF       		.byte	-1
+ 787 02f6 AD       		.byte	-83
+ 788 02f7 10       		.byte	16
+ 789 02f8 B2       		.byte	-78
+ 790 02f9 38       		.byte	56
+ 791 02fa B4       		.byte	-76
+ 792 02fb 1F       		.byte	31
+ 793 02fc B5       		.byte	-75
+ 794 02fd 1E       		.byte	30
+ 795 02fe B6       		.byte	-74
+ 796 02ff C0       		.byte	-64
+ 797 0300 B7       		.byte	-73
+ 798 0301 01       		.byte	1
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 15
+
+
+ 799 0302 BA       		.byte	-70
+ 800 0303 28       		.byte	40
+ 801 0304 BB       		.byte	-69
+ 802 0305 20       		.byte	32
+ 803 0306 D4       		.byte	-44
+ 804 0307 18       		.byte	24
+ 805 0308 D6       		.byte	-42
+ 806 0309 04       		.byte	4
+ 807 030a D8       		.byte	-40
+ 808 030b 04       		.byte	4
+ 809 030c D9       		.byte	-39
+ 810 030d 04       		.byte	4
+ 811 030e DB       		.byte	-37
+ 812 030f 04       		.byte	4
+ 813 0310 DC       		.byte	-36
+ 814 0311 11       		.byte	17
+ 815 0312 DD       		.byte	-35
+ 816 0313 10       		.byte	16
+ 817 0314 DF       		.byte	-33
+ 818 0315 01       		.byte	1
+ 819 0316 04       		.byte	4
+ 820 0317 42       		.byte	66
+ 821 0318 05       		.byte	5
+ 822 0319 04       		.byte	4
+ 823 031a 06       		.byte	6
+ 824 031b 08       		.byte	8
+ 825 031c 0C       		.byte	12
+ 826 031d 5A       		.byte	90
+ 827 031e 0D       		.byte	13
+ 828 031f 40       		.byte	64
+ 829 0320 0E       		.byte	14
+ 830 0321 20       		.byte	32
+ 831 0322 14       		.byte	20
+ 832 0323 01       		.byte	1
+ 833 0324 16       		.byte	22
+ 834 0325 A2       		.byte	-94
+ 835 0326 17       		.byte	23
+ 836 0327 10       		.byte	16
+ 837 0328 1D       		.byte	29
+ 838 0329 04       		.byte	4
+ 839 032a 1E       		.byte	30
+ 840 032b 01       		.byte	1
+ 841 032c 1F       		.byte	31
+ 842 032d 20       		.byte	32
+ 843 032e 20       		.byte	32
+ 844 032f 10       		.byte	16
+ 845 0330 21       		.byte	33
+ 846 0331 02       		.byte	2
+ 847 0332 23       		.byte	35
+ 848 0333 04       		.byte	4
+ 849 0334 24       		.byte	36
+ 850 0335 02       		.byte	2
+ 851 0336 25       		.byte	37
+ 852 0337 20       		.byte	32
+ 853 0338 26       		.byte	38
+ 854 0339 10       		.byte	16
+ 855 033a 29       		.byte	41
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 16
+
+
+ 856 033b 24       		.byte	36
+ 857 033c 2A       		.byte	42
+ 858 033d 02       		.byte	2
+ 859 033e 2C       		.byte	44
+ 860 033f 08       		.byte	8
+ 861 0340 2D       		.byte	45
+ 862 0341 80       		.byte	-128
+ 863 0342 2E       		.byte	46
+ 864 0343 82       		.byte	-126
+ 865 0344 2F       		.byte	47
+ 866 0345 20       		.byte	32
+ 867 0346 30       		.byte	48
+ 868 0347 08       		.byte	8
+ 869 0348 31       		.byte	49
+ 870 0349 02       		.byte	2
+ 871 034a 33       		.byte	51
+ 872 034b 30       		.byte	48
+ 873 034c 34       		.byte	52
+ 874 034d 50       		.byte	80
+ 875 034e 35       		.byte	53
+ 876 034f 04       		.byte	4
+ 877 0350 3A       		.byte	58
+ 878 0351 10       		.byte	16
+ 879 0352 3C       		.byte	60
+ 880 0353 42       		.byte	66
+ 881 0354 3E       		.byte	62
+ 882 0355 28       		.byte	40
+ 883 0356 5E       		.byte	94
+ 884 0357 01       		.byte	1
+ 885 0358 65       		.byte	101
+ 886 0359 02       		.byte	2
+ 887 035a 66       		.byte	102
+ 888 035b 40       		.byte	64
+ 889 035c 67       		.byte	103
+ 890 035d 04       		.byte	4
+ 891 035e 80       		.byte	-128
+ 892 035f 10       		.byte	16
+ 893 0360 85       		.byte	-123
+ 894 0361 02       		.byte	2
+ 895 0362 88       		.byte	-120
+ 896 0363 03       		.byte	3
+ 897 0364 89       		.byte	-119
+ 898 0365 08       		.byte	8
+ 899 0366 90       		.byte	-112
+ 900 0367 40       		.byte	64
+ 901 0368 91       		.byte	-111
+ 902 0369 80       		.byte	-128
+ 903 036a 98       		.byte	-104
+ 904 036b 11       		.byte	17
+ 905 036c 99       		.byte	-103
+ 906 036d A0       		.byte	-96
+ 907 036e 9A       		.byte	-102
+ 908 036f 78       		.byte	120
+ 909 0370 9C       		.byte	-100
+ 910 0371 40       		.byte	64
+ 911 0372 9D       		.byte	-99
+ 912 0373 0C       		.byte	12
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 17
+
+
+ 913 0374 A5       		.byte	-91
+ 914 0375 20       		.byte	32
+ 915 0376 A7       		.byte	-89
+ 916 0377 20       		.byte	32
+ 917 0378 C0       		.byte	-64
+ 918 0379 F0       		.byte	-16
+ 919 037a C2       		.byte	-62
+ 920 037b F0       		.byte	-16
+ 921 037c C4       		.byte	-60
+ 922 037d F0       		.byte	-16
+ 923 037e CA       		.byte	-54
+ 924 037f F7       		.byte	-9
+ 925 0380 CC       		.byte	-52
+ 926 0381 77       		.byte	119
+ 927 0382 CE       		.byte	-50
+ 928 0383 F4       		.byte	-12
+ 929 0384 D6       		.byte	-42
+ 930 0385 80       		.byte	-128
+ 931 0386 D8       		.byte	-40
+ 932 0387 B0       		.byte	-80
+ 933 0388 E4       		.byte	-28
+ 934 0389 01       		.byte	1
+ 935 038a EC       		.byte	-20
+ 936 038b 10       		.byte	16
+ 937 038c 30       		.byte	48
+ 938 038d 40       		.byte	64
+ 939 038e 34       		.byte	52
+ 940 038f 10       		.byte	16
+ 941 0390 CC       		.byte	-52
+ 942 0391 30       		.byte	48
+ 943 0392 9C       		.byte	-100
+ 944 0393 50       		.byte	80
+ 945 0394 9C       		.byte	-100
+ 946 0395 50       		.byte	80
+ 947 0396 84       		.byte	-124
+ 948 0397 10       		.byte	16
+ 949 0398 9C       		.byte	-100
+ 950 0399 50       		.byte	80
+ 951 039a E6       		.byte	-26
+ 952 039b 40       		.byte	64
+ 953 039c 7C       		.byte	124
+ 954 039d 01       		.byte	1
+ 955 039e DE       		.byte	-34
+ 956 039f 01       		.byte	1
+ 957 03a0 94       		.byte	-108
+ 958 03a1 01       		.byte	1
+ 959 03a2 45       		.byte	69
+ 960 03a3 08       		.byte	8
+ 961 03a4 94       		.byte	-108
+ 962 03a5 01       		.byte	1
+ 963 03a6 D0       		.byte	-48
+ 964 03a7 01       		.byte	1
+ 965 03a8 A5       		.byte	-91
+ 966 03a9 08       		.byte	8
+ 967 03aa B4       		.byte	-76
+ 968 03ab 01       		.byte	1
+ 969 03ac EC       		.byte	-20
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 18
+
+
+ 970 03ad 08       		.byte	8
+ 971 03ae 25       		.byte	37
+ 972 03af 10       		.byte	16
+ 973 03b0 9C       		.byte	-100
+ 974 03b1 40       		.byte	64
+ 975 03b2 C8       		.byte	-56
+ 976 03b3 20       		.byte	32
+ 977 03b4 84       		.byte	-124
+ 978 03b5 40       		.byte	64
+ 979 03b6 9C       		.byte	-100
+ 980 03b7 40       		.byte	64
+ 981 03b8 B5       		.byte	-75
+ 982 03b9 10       		.byte	16
+ 983 03ba E6       		.byte	-26
+ 984 03bb 10       		.byte	16
+ 985 03bc A5       		.byte	-91
+ 986 03bd 08       		.byte	8
+ 987 03be 10       		.byte	16
+ 988 03bf C0       		.byte	-64
+ 989 03c0 70       		.byte	112
+ 990 03c1 04       		.byte	4
+ 991 03c2 80       		.byte	-128
+ 992 03c3 04       		.byte	4
+ 993 03c4 88       		.byte	-120
+ 994 03c5 C0       		.byte	-64
+ 995 03c6 B5       		.byte	-75
+ 996 03c7 08       		.byte	8
+ 997 03c8 C4       		.byte	-60
+ 998 03c9 08       		.byte	8
+ 999 03ca DC       		.byte	-36
+ 1000 03cb 01       		.byte	1
+ 1001 03cc E2       		.byte	-30
+ 1002 03cd 01       		.byte	1
+ 1003 03ce E6       		.byte	-26
+ 1004 03cf 01       		.byte	1
+ 1005 03d0 EC       		.byte	-20
+ 1006 03d1 08       		.byte	8
+ 1007 03d2 00       		.byte	0
+ 1008 03d3 02       		.byte	2
+ 1009 03d4 0C       		.byte	12
+ 1010 03d5 02       		.byte	2
+ 1011 03d6 10       		.byte	16
+ 1012 03d7 02       		.byte	2
+ 1013 03d8 1C       		.byte	28
+ 1014 03d9 02       		.byte	2
+ 1015 03da 00       		.byte	0
+ 1016 03db 0F       		.byte	15
+ 1017 03dc 80       		.byte	-128
+ 1018 03dd 00       		.byte	0
+ 1019 03de 40       		.byte	64
+ 1020 03df 80       		.byte	-128
+ 1021 03e0 80       		.byte	-128
+ 1022 03e1 00       		.byte	0
+ 1023 03e2 80       		.byte	-128
+ 1024 03e3 00       		.byte	0
+ 1025 03e4 00       		.byte	0
+ 1026 03e5 00       		.byte	0
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 19
+
+
+ 1027 03e6 00       		.byte	0
+ 1028 03e7 00       		.byte	0
+ 1029 03e8 00       		.byte	0
+ 1030 03e9 00       		.byte	0
+ 1031 03ea 00       		.byte	0
+ 1032 03eb 00       		.byte	0
+ 1033 03ec 00       		.byte	0
+ 1034 03ed 00       		.byte	0
+ 1035 03ee 20       		.byte	32
+ 1036 03ef 00       		.byte	0
+ 1037 03f0 00       		.byte	0
+ 1038 03f1 8B       		.byte	-117
+ 1039 03f2 8B       		.byte	-117
+ 1040 03f3 00       		.byte	0
+ 1041 03f4 00       		.byte	0
+ 1042 03f5 00       		.byte	0
+ 1043 03f6 00       		.byte	0
+ 1044 03f7 00       		.byte	0
+ 1045 03f8 00       		.byte	0
+ 1046 03f9 03       		.byte	3
+ 1047 03fa 03       		.byte	3
+ 1048 03fb 00       		.byte	0
+ 1049 03fc 00       		.byte	0
+ 1050 03fd 00       		.byte	0
+ 1051 03fe 00       		.byte	0
+ 1052 03ff 00       		.byte	0
+ 1053 0400 25       		.byte	37
+ 1054 0401 00       		.byte	0
+ 1055 0402 18       		.byte	24
+ 1056 0403 01       		.byte	1
+ 1057              		.section	.cywolatch,"a",%progbits
+ 1058              		.align	2
+ 1059              		.type	cy_meta_wonvl, %object
+ 1060              		.size	cy_meta_wonvl, 4
+ 1061              	cy_meta_wonvl:
+ 1062 0000 BC       		.byte	-68
+ 1063 0001 90       		.byte	-112
+ 1064 0002 AC       		.byte	-84
+ 1065 0003 AF       		.byte	-81
+ 1066              		.section	.cycustnvl,"a",%progbits
+ 1067              		.align	2
+ 1068              		.type	cy_meta_custnvl, %object
+ 1069              		.size	cy_meta_custnvl, 4
+ 1070              	cy_meta_custnvl:
+ 1071 0000 00       		.byte	0
+ 1072 0001 00       		.byte	0
+ 1073 0002 40       		.byte	64
+ 1074 0003 05       		.byte	5
+ 1075              		.section	.cymeta,"a",%progbits
+ 1076              		.align	2
+ 1077              		.type	cy_metadata, %object
+ 1078              		.size	cy_metadata, 12
+ 1079              	cy_metadata:
+ 1080 0000 00       		.byte	0
+ 1081 0001 01       		.byte	1
+ 1082 0002 2E       		.byte	46
+ 1083 0003 16       		.byte	22
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 20
+
+
+ 1084 0004 10       		.byte	16
+ 1085 0005 69       		.byte	105
+ 1086 0006 00       		.byte	0
+ 1087 0007 01       		.byte	1
+ 1088 0008 00       		.byte	0
+ 1089 0009 00       		.byte	0
+ 1090 000a 00       		.byte	0
+ 1091 000b 00       		.byte	0
+ 1092              		.section	.cyflashprotect,"a",%progbits
+ 1093              		.align	2
+ 1094              		.type	cy_meta_flashprotect, %object
+ 1095              		.size	cy_meta_flashprotect, 256
+ 1096              	cy_meta_flashprotect:
+ 1097 0000 00000000 		.space	256
+ 1097      00000000 
+ 1097      00000000 
+ 1097      00000000 
+ 1097      00000000 
+ 1098              		.text
+ 1099              	.Letext0:
+ 1100              		.file 1 "c:\\program files (x86)\\cypress\\psoc creator\\4.2\\psoc creator\\import\\gnu\\arm\\5.4.
+ 1101              		.file 2 "c:\\program files (x86)\\cypress\\psoc creator\\4.2\\psoc creator\\import\\gnu\\arm\\5.4.
+ 1102              		.file 3 "Generated_Source\\PSoC5\\cymetadata.c"
+ 1103              		.section	.debug_info,"",%progbits
+ 1104              	.Ldebug_info0:
+ 1105 0000 31010000 		.4byte	0x131
+ 1106 0004 0400     		.2byte	0x4
+ 1107 0006 00000000 		.4byte	.Ldebug_abbrev0
+ 1108 000a 04       		.byte	0x4
+ 1109 000b 01       		.uleb128 0x1
+ 1110 000c 37000000 		.4byte	.LASF17
+ 1111 0010 0C       		.byte	0xc
+ 1112 0011 D4010000 		.4byte	.LASF18
+ 1113 0015 D7000000 		.4byte	.LASF19
+ 1114 0019 00000000 		.4byte	.Ldebug_line0
+ 1115 001d 02       		.uleb128 0x2
+ 1116 001e 01       		.byte	0x1
+ 1117 001f 06       		.byte	0x6
+ 1118 0020 C8010000 		.4byte	.LASF0
+ 1119 0024 03       		.uleb128 0x3
+ 1120 0025 00000000 		.4byte	.LASF9
+ 1121 0029 01       		.byte	0x1
+ 1122 002a 1D       		.byte	0x1d
+ 1123 002b 2F000000 		.4byte	0x2f
+ 1124 002f 02       		.uleb128 0x2
+ 1125 0030 01       		.byte	0x1
+ 1126 0031 08       		.byte	0x8
+ 1127 0032 29000000 		.4byte	.LASF1
+ 1128 0036 02       		.uleb128 0x2
+ 1129 0037 02       		.byte	0x2
+ 1130 0038 05       		.byte	0x5
+ 1131 0039 B5010000 		.4byte	.LASF2
+ 1132 003d 02       		.uleb128 0x2
+ 1133 003e 02       		.byte	0x2
+ 1134 003f 07       		.byte	0x7
+ 1135 0040 0A000000 		.4byte	.LASF3
+ 1136 0044 02       		.uleb128 0x2
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 21
+
+
+ 1137 0045 04       		.byte	0x4
+ 1138 0046 05       		.byte	0x5
+ 1139 0047 BF010000 		.4byte	.LASF4
+ 1140 004b 02       		.uleb128 0x2
+ 1141 004c 04       		.byte	0x4
+ 1142 004d 07       		.byte	0x7
+ 1143 004e C5000000 		.4byte	.LASF5
+ 1144 0052 02       		.uleb128 0x2
+ 1145 0053 08       		.byte	0x8
+ 1146 0054 05       		.byte	0x5
+ 1147 0055 A7010000 		.4byte	.LASF6
+ 1148 0059 02       		.uleb128 0x2
+ 1149 005a 08       		.byte	0x8
+ 1150 005b 07       		.byte	0x7
+ 1151 005c 5C010000 		.4byte	.LASF7
+ 1152 0060 04       		.uleb128 0x4
+ 1153 0061 04       		.byte	0x4
+ 1154 0062 05       		.byte	0x5
+ 1155 0063 696E7400 		.ascii	"int\000"
+ 1156 0067 02       		.uleb128 0x2
+ 1157 0068 04       		.byte	0x4
+ 1158 0069 07       		.byte	0x7
+ 1159 006a 4F010000 		.4byte	.LASF8
+ 1160 006e 03       		.uleb128 0x3
+ 1161 006f 73010000 		.4byte	.LASF10
+ 1162 0073 02       		.byte	0x2
+ 1163 0074 18       		.byte	0x18
+ 1164 0075 24000000 		.4byte	0x24
+ 1165 0079 05       		.uleb128 0x5
+ 1166 007a 91000000 		.4byte	0x91
+ 1167 007e 8A000000 		.4byte	0x8a
+ 1168 0082 06       		.uleb128 0x6
+ 1169 0083 8A000000 		.4byte	0x8a
+ 1170 0087 0304     		.2byte	0x403
+ 1171 0089 00       		.byte	0
+ 1172 008a 02       		.uleb128 0x2
+ 1173 008b 04       		.byte	0x4
+ 1174 008c 07       		.byte	0x7
+ 1175 008d 9E010000 		.4byte	.LASF11
+ 1176 0091 07       		.uleb128 0x7
+ 1177 0092 6E000000 		.4byte	0x6e
+ 1178 0096 08       		.uleb128 0x8
+ 1179 0097 3D010000 		.4byte	.LASF12
+ 1180 009b 03       		.byte	0x3
+ 1181 009c 1F       		.byte	0x1f
+ 1182 009d A7000000 		.4byte	0xa7
+ 1183 00a1 05       		.uleb128 0x5
+ 1184 00a2 03       		.byte	0x3
+ 1185 00a3 00000000 		.4byte	cy_meta_configecc
+ 1186 00a7 07       		.uleb128 0x7
+ 1187 00a8 79000000 		.4byte	0x79
+ 1188 00ac 05       		.uleb128 0x5
+ 1189 00ad 91000000 		.4byte	0x91
+ 1190 00b1 BC000000 		.4byte	0xbc
+ 1191 00b5 09       		.uleb128 0x9
+ 1192 00b6 8A000000 		.4byte	0x8a
+ 1193 00ba 03       		.byte	0x3
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 22
+
+
+ 1194 00bb 00       		.byte	0
+ 1195 00bc 08       		.uleb128 0x8
+ 1196 00bd 2D010000 		.4byte	.LASF13
+ 1197 00c1 03       		.byte	0x3
+ 1198 00c2 AD       		.byte	0xad
+ 1199 00c3 CD000000 		.4byte	0xcd
+ 1200 00c7 05       		.uleb128 0x5
+ 1201 00c8 03       		.byte	0x3
+ 1202 00c9 00000000 		.4byte	cy_meta_custnvl
+ 1203 00cd 07       		.uleb128 0x7
+ 1204 00ce AC000000 		.4byte	0xac
+ 1205 00d2 08       		.uleb128 0x8
+ 1206 00d3 90010000 		.4byte	.LASF14
+ 1207 00d7 03       		.byte	0x3
+ 1208 00d8 BB       		.byte	0xbb
+ 1209 00d9 E3000000 		.4byte	0xe3
+ 1210 00dd 05       		.uleb128 0x5
+ 1211 00de 03       		.byte	0x3
+ 1212 00df 00000000 		.4byte	cy_meta_wonvl
+ 1213 00e3 07       		.uleb128 0x7
+ 1214 00e4 AC000000 		.4byte	0xac
+ 1215 00e8 05       		.uleb128 0x5
+ 1216 00e9 91000000 		.4byte	0x91
+ 1217 00ed F8000000 		.4byte	0xf8
+ 1218 00f1 09       		.uleb128 0x9
+ 1219 00f2 8A000000 		.4byte	0x8a
+ 1220 00f6 FF       		.byte	0xff
+ 1221 00f7 00       		.byte	0
+ 1222 00f8 08       		.uleb128 0x8
+ 1223 00f9 7B010000 		.4byte	.LASF15
+ 1224 00fd 03       		.byte	0x3
+ 1225 00fe C9       		.byte	0xc9
+ 1226 00ff 09010000 		.4byte	0x109
+ 1227 0103 05       		.uleb128 0x5
+ 1228 0104 03       		.byte	0x3
+ 1229 0105 00000000 		.4byte	cy_meta_flashprotect
+ 1230 0109 07       		.uleb128 0x7
+ 1231 010a E8000000 		.4byte	0xe8
+ 1232 010e 05       		.uleb128 0x5
+ 1233 010f 91000000 		.4byte	0x91
+ 1234 0113 1E010000 		.4byte	0x11e
+ 1235 0117 09       		.uleb128 0x9
+ 1236 0118 8A000000 		.4byte	0x8a
+ 1237 011c 0B       		.byte	0xb
+ 1238 011d 00       		.byte	0
+ 1239 011e 08       		.uleb128 0x8
+ 1240 011f 1D000000 		.4byte	.LASF16
+ 1241 0123 03       		.byte	0x3
+ 1242 0124 F6       		.byte	0xf6
+ 1243 0125 2F010000 		.4byte	0x12f
+ 1244 0129 05       		.uleb128 0x5
+ 1245 012a 03       		.byte	0x3
+ 1246 012b 00000000 		.4byte	cy_metadata
+ 1247 012f 07       		.uleb128 0x7
+ 1248 0130 0E010000 		.4byte	0x10e
+ 1249 0134 00       		.byte	0
+ 1250              		.section	.debug_abbrev,"",%progbits
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 23
+
+
+ 1251              	.Ldebug_abbrev0:
+ 1252 0000 01       		.uleb128 0x1
+ 1253 0001 11       		.uleb128 0x11
+ 1254 0002 01       		.byte	0x1
+ 1255 0003 25       		.uleb128 0x25
+ 1256 0004 0E       		.uleb128 0xe
+ 1257 0005 13       		.uleb128 0x13
+ 1258 0006 0B       		.uleb128 0xb
+ 1259 0007 03       		.uleb128 0x3
+ 1260 0008 0E       		.uleb128 0xe
+ 1261 0009 1B       		.uleb128 0x1b
+ 1262 000a 0E       		.uleb128 0xe
+ 1263 000b 10       		.uleb128 0x10
+ 1264 000c 17       		.uleb128 0x17
+ 1265 000d 00       		.byte	0
+ 1266 000e 00       		.byte	0
+ 1267 000f 02       		.uleb128 0x2
+ 1268 0010 24       		.uleb128 0x24
+ 1269 0011 00       		.byte	0
+ 1270 0012 0B       		.uleb128 0xb
+ 1271 0013 0B       		.uleb128 0xb
+ 1272 0014 3E       		.uleb128 0x3e
+ 1273 0015 0B       		.uleb128 0xb
+ 1274 0016 03       		.uleb128 0x3
+ 1275 0017 0E       		.uleb128 0xe
+ 1276 0018 00       		.byte	0
+ 1277 0019 00       		.byte	0
+ 1278 001a 03       		.uleb128 0x3
+ 1279 001b 16       		.uleb128 0x16
+ 1280 001c 00       		.byte	0
+ 1281 001d 03       		.uleb128 0x3
+ 1282 001e 0E       		.uleb128 0xe
+ 1283 001f 3A       		.uleb128 0x3a
+ 1284 0020 0B       		.uleb128 0xb
+ 1285 0021 3B       		.uleb128 0x3b
+ 1286 0022 0B       		.uleb128 0xb
+ 1287 0023 49       		.uleb128 0x49
+ 1288 0024 13       		.uleb128 0x13
+ 1289 0025 00       		.byte	0
+ 1290 0026 00       		.byte	0
+ 1291 0027 04       		.uleb128 0x4
+ 1292 0028 24       		.uleb128 0x24
+ 1293 0029 00       		.byte	0
+ 1294 002a 0B       		.uleb128 0xb
+ 1295 002b 0B       		.uleb128 0xb
+ 1296 002c 3E       		.uleb128 0x3e
+ 1297 002d 0B       		.uleb128 0xb
+ 1298 002e 03       		.uleb128 0x3
+ 1299 002f 08       		.uleb128 0x8
+ 1300 0030 00       		.byte	0
+ 1301 0031 00       		.byte	0
+ 1302 0032 05       		.uleb128 0x5
+ 1303 0033 01       		.uleb128 0x1
+ 1304 0034 01       		.byte	0x1
+ 1305 0035 49       		.uleb128 0x49
+ 1306 0036 13       		.uleb128 0x13
+ 1307 0037 01       		.uleb128 0x1
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 24
+
+
+ 1308 0038 13       		.uleb128 0x13
+ 1309 0039 00       		.byte	0
+ 1310 003a 00       		.byte	0
+ 1311 003b 06       		.uleb128 0x6
+ 1312 003c 21       		.uleb128 0x21
+ 1313 003d 00       		.byte	0
+ 1314 003e 49       		.uleb128 0x49
+ 1315 003f 13       		.uleb128 0x13
+ 1316 0040 2F       		.uleb128 0x2f
+ 1317 0041 05       		.uleb128 0x5
+ 1318 0042 00       		.byte	0
+ 1319 0043 00       		.byte	0
+ 1320 0044 07       		.uleb128 0x7
+ 1321 0045 26       		.uleb128 0x26
+ 1322 0046 00       		.byte	0
+ 1323 0047 49       		.uleb128 0x49
+ 1324 0048 13       		.uleb128 0x13
+ 1325 0049 00       		.byte	0
+ 1326 004a 00       		.byte	0
+ 1327 004b 08       		.uleb128 0x8
+ 1328 004c 34       		.uleb128 0x34
+ 1329 004d 00       		.byte	0
+ 1330 004e 03       		.uleb128 0x3
+ 1331 004f 0E       		.uleb128 0xe
+ 1332 0050 3A       		.uleb128 0x3a
+ 1333 0051 0B       		.uleb128 0xb
+ 1334 0052 3B       		.uleb128 0x3b
+ 1335 0053 0B       		.uleb128 0xb
+ 1336 0054 49       		.uleb128 0x49
+ 1337 0055 13       		.uleb128 0x13
+ 1338 0056 3F       		.uleb128 0x3f
+ 1339 0057 19       		.uleb128 0x19
+ 1340 0058 02       		.uleb128 0x2
+ 1341 0059 18       		.uleb128 0x18
+ 1342 005a 00       		.byte	0
+ 1343 005b 00       		.byte	0
+ 1344 005c 09       		.uleb128 0x9
+ 1345 005d 21       		.uleb128 0x21
+ 1346 005e 00       		.byte	0
+ 1347 005f 49       		.uleb128 0x49
+ 1348 0060 13       		.uleb128 0x13
+ 1349 0061 2F       		.uleb128 0x2f
+ 1350 0062 0B       		.uleb128 0xb
+ 1351 0063 00       		.byte	0
+ 1352 0064 00       		.byte	0
+ 1353 0065 00       		.byte	0
+ 1354              		.section	.debug_aranges,"",%progbits
+ 1355 0000 14000000 		.4byte	0x14
+ 1356 0004 0200     		.2byte	0x2
+ 1357 0006 00000000 		.4byte	.Ldebug_info0
+ 1358 000a 04       		.byte	0x4
+ 1359 000b 00       		.byte	0
+ 1360 000c 0000     		.2byte	0
+ 1361 000e 0000     		.2byte	0
+ 1362 0010 00000000 		.4byte	0
+ 1363 0014 00000000 		.4byte	0
+ 1364              		.section	.debug_line,"",%progbits
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 25
+
+
+ 1365              	.Ldebug_line0:
+ 1366 0000 3D010000 		.section	.debug_str,"MS",%progbits,1
+ 1366      02003701 
+ 1366      00000201 
+ 1366      FB0E0D00 
+ 1366      01010101 
+ 1367              	.LASF9:
+ 1368 0000 5F5F7569 		.ascii	"__uint8_t\000"
+ 1368      6E74385F 
+ 1368      7400
+ 1369              	.LASF3:
+ 1370 000a 73686F72 		.ascii	"short unsigned int\000"
+ 1370      7420756E 
+ 1370      7369676E 
+ 1370      65642069 
+ 1370      6E7400
+ 1371              	.LASF16:
+ 1372 001d 63795F6D 		.ascii	"cy_metadata\000"
+ 1372      65746164 
+ 1372      61746100 
+ 1373              	.LASF1:
+ 1374 0029 756E7369 		.ascii	"unsigned char\000"
+ 1374      676E6564 
+ 1374      20636861 
+ 1374      7200
+ 1375              	.LASF17:
+ 1376 0037 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 1376      43313120 
+ 1376      352E342E 
+ 1376      31203230 
+ 1376      31363036 
+ 1377 006a 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
+ 1377      20726576 
+ 1377      6973696F 
+ 1377      6E203233 
+ 1377      37373135 
+ 1378 009d 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
+ 1378      66756E63 
+ 1378      74696F6E 
+ 1378      2D736563 
+ 1378      74696F6E 
+ 1379              	.LASF5:
+ 1380 00c5 6C6F6E67 		.ascii	"long unsigned int\000"
+ 1380      20756E73 
+ 1380      69676E65 
+ 1380      6420696E 
+ 1380      7400
+ 1381              	.LASF19:
+ 1382 00d7 443A5C68 		.ascii	"D:\\h_da\\Lecturs\\Basic Embedded\\Embedded_basics\\"
+ 1382      5F64615C 
+ 1382      4C656374 
+ 1382      7572735C 
+ 1382      42617369 
+ 1383 0106 31335F41 		.ascii	"13_ADC_UART_MATLAB_data_transfer.cydsn\000"
+ 1383      44435F55 
+ 1383      4152545F 
+ 1383      4D41544C 
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 26
+
+
+ 1383      41425F64 
+ 1384              	.LASF13:
+ 1385 012d 63795F6D 		.ascii	"cy_meta_custnvl\000"
+ 1385      6574615F 
+ 1385      63757374 
+ 1385      6E766C00 
+ 1386              	.LASF12:
+ 1387 013d 63795F6D 		.ascii	"cy_meta_configecc\000"
+ 1387      6574615F 
+ 1387      636F6E66 
+ 1387      69676563 
+ 1387      6300
+ 1388              	.LASF8:
+ 1389 014f 756E7369 		.ascii	"unsigned int\000"
+ 1389      676E6564 
+ 1389      20696E74 
+ 1389      00
+ 1390              	.LASF7:
+ 1391 015c 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 1391      206C6F6E 
+ 1391      6720756E 
+ 1391      7369676E 
+ 1391      65642069 
+ 1392              	.LASF10:
+ 1393 0173 75696E74 		.ascii	"uint8_t\000"
+ 1393      385F7400 
+ 1394              	.LASF15:
+ 1395 017b 63795F6D 		.ascii	"cy_meta_flashprotect\000"
+ 1395      6574615F 
+ 1395      666C6173 
+ 1395      6870726F 
+ 1395      74656374 
+ 1396              	.LASF14:
+ 1397 0190 63795F6D 		.ascii	"cy_meta_wonvl\000"
+ 1397      6574615F 
+ 1397      776F6E76 
+ 1397      6C00
+ 1398              	.LASF11:
+ 1399 019e 73697A65 		.ascii	"sizetype\000"
+ 1399      74797065 
+ 1399      00
+ 1400              	.LASF6:
+ 1401 01a7 6C6F6E67 		.ascii	"long long int\000"
+ 1401      206C6F6E 
+ 1401      6720696E 
+ 1401      7400
+ 1402              	.LASF2:
+ 1403 01b5 73686F72 		.ascii	"short int\000"
+ 1403      7420696E 
+ 1403      7400
+ 1404              	.LASF4:
+ 1405 01bf 6C6F6E67 		.ascii	"long int\000"
+ 1405      20696E74 
+ 1405      00
+ 1406              	.LASF0:
+ 1407 01c8 7369676E 		.ascii	"signed char\000"
+ 1407      65642063 
+ARM GAS  C:\Users\swaga\AppData\Local\Temp\ccBXx5hn.s 			page 27
+
+
+ 1407      68617200 
+ 1408              	.LASF18:
+ 1409 01d4 47656E65 		.ascii	"Generated_Source\\PSoC5\\cymetadata.c\000"
+ 1409      72617465 
+ 1409      645F536F 
+ 1409      75726365 
+ 1409      5C50536F 
+ 1410              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran

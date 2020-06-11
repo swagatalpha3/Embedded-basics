@@ -3,7 +3,7 @@
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
 <CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="Embedded_basics" persistent="Embedded_basics.cywrk" platform="NOT_USED">
-<current_project name=".\09_3_bit_counter.cydsn\09_3_bit_counter.cyprj" />
+<current_project name=".\14_DAC_ADC_UART_MATLAB_data_transfer.cydsn\14_DAC_ADC_UART_MATLAB_data_transfer.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
@@ -17,6 +17,11 @@
 <v>.\07_UART_LED_CONTROL_KEYBOARD.cydsn\07_UART_LED_CONTROL_KEYBOARD.cyprj</v>
 <v>.\08_CAPACITOR_PWM.cydsn\08_CAPACITOR_PWM.cyprj</v>
 <v>.\09_3_bit_counter.cydsn\09_3_bit_counter.cyprj</v>
+<v>.\10_UART_with_swbuffer_talkback_capitalize.cydsn\10_UART_with_swbuffer_talkback_capitalize.cyprj</v>
+<v>.\11_UART_without_swbuffer_talkback_capitalize.cydsn\11_UART_without_swbuffer_talkback_capitalize.cyprj</v>
+<v>.\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydsn\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cyprj</v>
+<v>.\12_UART_MATLAB_data_transfer.cydsn\12_UART_MATLAB_data_transfer.cyprj</v>
+<v>.\14_DAC_ADC_UART_MATLAB_data_transfer.cydsn\14_DAC_ADC_UART_MATLAB_data_transfer.cyprj</v>
 </projects>
 <workspace_id v="277c7b29-e4c5-41f8-96f2-769332e6bb01" />
 <WriteAppVersionLastSavedWith v="4.2.0.641" />

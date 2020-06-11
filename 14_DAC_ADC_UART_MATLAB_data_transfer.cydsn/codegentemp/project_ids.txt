@@ -1,0 +1,20 @@
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\00_blink_LED.cydsn\00_blink_LED.cyprj|10fe03b7-9bbb-4bc0-b55b-7ff473a160d9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|a2263bb4-3444-4903-b94d-dbb1a2e63f9c
+C:\Users\swaga\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|933a4bcc-e466-4351-9503-4c96b5543f7a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b7a0c540-5f94-48d4-855f-e68829d12910
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|7a5f738e-4701-4de3-bd40-5b3c8d4b346d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|1c3e7e5c-e07e-4faa-a304-d07dfa25a02b
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\01_LED_SW_BLINK.cydsn\01_LED_SW_BLINK.cyprj|2fc84c92-9d22-4e36-a5ad-7b0e63320af8
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\02_LED_BUTTON_HW.cydsn\02_LED_BUTTON_HW.cyprj|7fad58da-fa65-488e-9473-e07c45cdf775
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\03_LED_BUTTON_SW.cydsn\03_LED_BUTTON_SW.cyprj|4f362646-41dd-458a-932a-c1c7fc4755e3
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\04_POT_LED_BRIGHTNESS.cydsn\04_POT_LED_BRIGHTNESS.cyprj|964fe40d-a101-41c3-a5ab-08fe9b82f20f
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\05_UART_INTRO.cydsn\05_UART_INTRO.cyprj|8bb23d6d-5621-4cb7-8ad4-90defad7abf7
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\06_UART_LED_STATUS.cydsn\06_UART_LED_STATUS.cyprj|0159fef1-cbce-4dcc-bf01-281d8e35d481
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\07_UART_LED_CONTROL_KEYBOARD.cydsn\07_UART_LED_CONTROL_KEYBOARD.cyprj|427f2c8e-465f-4887-b90f-5c540b201ac8
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\08_CAPACITOR_PWM.cydsn\08_CAPACITOR_PWM.cyprj|4e6ca88e-d2f8-4af7-b0b9-63eedb284735
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\09_3_bit_counter.cydsn\09_3_bit_counter.cyprj|d5cc763d-29b3-49b7-a3ef-722a224f54e8
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\10_UART_with_swbuffer_talkback_capitalize.cydsn\10_UART_with_swbuffer_talkback_capitalize.cyprj|b8441c95-e7de-4569-a864-ff2c80e4c61a
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\11_UART_without_swbuffer_talkback_capitalize.cydsn\11_UART_without_swbuffer_talkback_capitalize.cyprj|1bac4d8a-6291-402d-9ebc-70128296fb3c
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer.cydsn\14_DAC_ADC_UART_MATLAB_data_transfer.cyprj|8fea3e7f-5cbc-4d45-88eb-e909b43c71b1
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\12_UART_MATLAB_data_transfer.cydsn\12_UART_MATLAB_data_transfer.cyprj|eec143b5-9af1-48f8-8751-c58d1d537eb6
+D:\h_da\Lecturs\Basic Embedded\Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydsn\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cyprj|d5a5d2a9-6493-4eb7-8159-4df6c868fdd6

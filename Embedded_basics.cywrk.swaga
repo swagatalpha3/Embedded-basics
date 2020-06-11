@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Embedded_basics\08_CAPACITOR_PWM\Source Files\main.c">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Source Files\main.c">
 <ExpandedNodeIds>
 <v>Embedded_basics</v>
 <v>Embedded_basics\00_blink_LED\TopDesign</v>
@@ -151,7 +151,6 @@
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\Source Files\main.c</v>
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\Generated_Source</v>
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD\Generated_Source\PSoC5</v>
-<v>Embedded_basics\08_CAPACITOR_PWM</v>
 <v>Embedded_basics\08_CAPACITOR_PWM\TopDesign</v>
 <v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr</v>
 <v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Pins</v>
@@ -170,7 +169,6 @@
 <v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source</v>
 <v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5</v>
 <v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\UART_IntClock</v>
-<v>Embedded_basics\09_3_bit_counter</v>
 <v>Embedded_basics\09_3_bit_counter\TopDesign</v>
 <v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr</v>
 <v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.cydwr\Pins</v>
@@ -187,6 +185,91 @@
 <v>Embedded_basics\09_3_bit_counter\Source Files</v>
 <v>Embedded_basics\09_3_bit_counter\Source Files\main.c</v>
 <v>Embedded_basics\09_3_bit_counter\Generated_Source\PSoC5</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\TopDesign</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.cydwr</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.cydwr\Pins</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.cydwr\Analog</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.cydwr\Clocks</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.cydwr\Interrupts</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.cydwr\DMA</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.cydwr\System</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.cydwr\Directives</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.cydwr\Flash Security</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.cydwr\EEPROM</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\Header Files</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\Header Files\cyapicallbacks.h</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\Source Files</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\Source Files\main.c</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\Generated_Source\PSoC5</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\TopDesign</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.cydwr</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.cydwr\Pins</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.cydwr\Analog</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.cydwr\Clocks</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.cydwr\Interrupts</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.cydwr\DMA</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.cydwr\System</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.cydwr\Directives</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.cydwr\Flash Security</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.cydwr\EEPROM</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\Header Files</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\Header Files\cyapicallbacks.h</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\Source Files</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\Source Files\main.c</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\Generated_Source</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\Generated_Source\PSoC5</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\TopDesign</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.cydwr</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.cydwr\Pins</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.cydwr\Analog</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.cydwr\Clocks</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.cydwr\Interrupts</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.cydwr\DMA</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.cydwr\System</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.cydwr\Directives</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.cydwr\Flash Security</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.cydwr\EEPROM</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\Header Files</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\Header Files\cyapicallbacks.h</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\Source Files</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\Source Files\main.c</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\Generated_Source</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\Generated_Source\PSoC5</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\TopDesign</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydwr</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydwr\Pins</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydwr\Analog</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydwr\Clocks</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydwr\Interrupts</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydwr\DMA</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydwr\System</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydwr\Directives</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydwr\Flash Security</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.cydwr\EEPROM</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\Header Files</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\Header Files\cyapicallbacks.h</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\Source Files</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\Source Files\main.c</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\Generated_Source</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\Generated_Source\PSoC5</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\TopDesign</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Pins</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Analog</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Clocks</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Interrupts</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\DMA</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\System</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Directives</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Flash Security</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\EEPROM</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Header Files</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Header Files\cyapicallbacks.h</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Source Files</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Source Files\main.c</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>Embedded_basics</v>
@@ -199,33 +282,44 @@
 <v>Embedded_basics\06_UART_LED_STATUS</v>
 <v>Embedded_basics\07_UART_LED_CONTROL_KEYBOARD</v>
 <v>Embedded_basics\08_CAPACITOR_PWM</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\TopDesign</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Pins</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Analog</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Clocks</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Interrupts</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\DMA</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\System</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Directives</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\Flash Security</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\08_CAPACITOR_PWM.cydwr\EEPROM</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Header Files</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Header Files\cyapicallbacks.h</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Source Files</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Source Files\main.c</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC_IRQ</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC_out</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC_out_IRQ</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC_out_theACLK</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\ADC_theACLK</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\CAP_OUT</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\capacitor</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\Clock</v>
-<v>Embedded_basics\08_CAPACITOR_PWM\Generated_Source\PSoC5\cy_boot</v>
+<v>Embedded_basics\09_3_bit_counter</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\TopDesign</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Pins</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Analog</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Clocks</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Interrupts</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\DMA</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\System</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Directives</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\Flash Security</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.cydwr\EEPROM</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Header Files</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Header Files\cyapicallbacks.h</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Source Files</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Source Files\main.c</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\ADC</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\ADC_AMux</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\ADC_Ext_CP_Clk</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\ADC_IRQ</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\ADC_theACLK</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\cy_boot</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\ISR_UART_Rx</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\led_green</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\led_red</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\led_yellow</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\UART</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\UART_IntClock</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\WaveDAC</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\Generated_Source\PSoC5\WaveDAC_DacClk</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -261,6 +355,21 @@
 <v>Embedded_basics\09_3_bit_counter</v>
 <v>Embedded_basics\09_3_bit_counter\TopDesign</v>
 <v>Embedded_basics\09_3_bit_counter\TopDesign\TopDesign.cysch</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\TopDesign</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\TopDesign\TopDesign.cysch</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\TopDesign</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\TopDesign\TopDesign.cysch</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\TopDesign</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\TopDesign\TopDesign.cysch</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\TopDesign</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\TopDesign\TopDesign.cysch</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\TopDesign</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\TopDesign\TopDesign.cysch</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>Embedded_basics</v>
@@ -294,6 +403,21 @@
 <v>Embedded_basics\09_3_bit_counter</v>
 <v>Embedded_basics\09_3_bit_counter\TopDesign</v>
 <v>Embedded_basics\09_3_bit_counter\TopDesign\TopDesign.cysch</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\TopDesign</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\TopDesign\TopDesign.cysch</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\TopDesign</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\TopDesign\TopDesign.cysch</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\TopDesign</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\TopDesign\TopDesign.cysch</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\TopDesign</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\TopDesign\TopDesign.cysch</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\TopDesign</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\TopDesign\TopDesign.cysch</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -600,6 +724,178 @@
 <v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.gpdsc</v>
 <v>Embedded_basics\09_3_bit_counter\09_3_bit_counter.rpt</v>
 <v>Embedded_basics\09_3_bit_counter\09_3_bit_counter_timing.html</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\ISR_UART_Rx.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\10_UART_with_swbuffer_talkback_capitalize.elf</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\10_UART_with_swbuffer_talkback_capitalize.hex</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\10_UART_with_swbuffer_talkback_capitalize.map</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.gpdsc</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize.rpt</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\10_UART_with_swbuffer_talkback_capitalize_timing.html</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\11_UART_without_swbuffer_talkback_capitalize.elf</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\11_UART_without_swbuffer_talkback_capitalize.hex</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CortexM3\ARM_GCC_541\Debug\11_UART_without_swbuffer_talkback_capitalize.map</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.gpdsc</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize.rpt</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\11_UART_without_swbuffer_talkback_capitalize_timing.html</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ISR_UART_Rx.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\12_UART_MATLAB_data_transfer.elf</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\12_UART_MATLAB_data_transfer.hex</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\12_UART_MATLAB_data_transfer.map</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.gpdsc</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer.rpt</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\12_UART_MATLAB_data_transfer_timing.html</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_AMux.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_Ext_CP_Clk.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_in.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_theACLK.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ISR_UART_Rx.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\led_green.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\led_red.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\led_yellow.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\13_ADC_vtg_detect_UART_MATLAB_data_transfer.elf</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\13_ADC_vtg_detect_UART_MATLAB_data_transfer.hex</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\13_ADC_vtg_detect_UART_MATLAB_data_transfer.map</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.gpdsc</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer.rpt</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\13_ADC_vtg_detect_UART_MATLAB_data_transfer_timing.html</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_AMux.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_Ext_CP_Clk.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_theACLK.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\ISR_UART_Rx.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\led_green.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\led_red.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\led_yellow.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_DacClk.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_PM.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_VDAC8.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_VDAC8_PM.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_Wave1_DMA_dma.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_Wave2_DMA_dma.lst</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\14_DAC_ADC_UART_MATLAB_data_transfer.elf</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\14_DAC_ADC_UART_MATLAB_data_transfer.hex</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CortexM3\ARM_GCC_541\Debug\14_DAC_ADC_UART_MATLAB_data_transfer.map</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.gpdsc</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer.rpt</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\14_DAC_ADC_UART_MATLAB_data_transfer_timing.html</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>Embedded_basics</v>
@@ -639,6 +935,17 @@
 <v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
 <v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
 <v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\Listing Files\LED.lst</v>
+<v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\01_LED_SW_BLINK.elf</v>
+<v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\01_LED_SW_BLINK.hex</v>
+<v>Embedded_basics\01_LED_SW_BLINK\CortexM3\ARM_GCC_541\Debug\01_LED_SW_BLINK.map</v>
+<v>Embedded_basics\01_LED_SW_BLINK\01_LED_SW_BLINK.gpdsc</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -735,6 +1042,54 @@
 <v>Embedded_basics\09_3_bit_counter\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
 <v>Embedded_basics\09_3_bit_counter\Debouncer_v1_0.pdf</v>
 <v>Embedded_basics\09_3_bit_counter\UART_v2_50.pdf</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\PSoC 5LP Architecture TRM</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\CY8C58LP Family Datasheet</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\System Reference Guides</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\cy_isr_v1_70.pdf</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\cy_pins_v2_20</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\10_UART_with_swbuffer_talkback_capitalize\UART_v2_50.pdf</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\PSoC 5LP Architecture TRM</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\CY8C58LP Family Datasheet</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\System Reference Guides</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\cy_pins_v2_20</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\11_UART_without_swbuffer_talkback_capitalize\UART_v2_50.pdf</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\PSoC 5LP Architecture TRM</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\CY8C58LP Family Datasheet</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\System Reference Guides</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\cy_isr_v1_70.pdf</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\cy_pins_v2_20</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\12_UART_MATLAB_data_transfer\UART_v2_50.pdf</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\PSoC 5LP Architecture TRM</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\CY8C58LP Family Datasheet</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\System Reference Guides</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\ADC_DelSig_v3_30.pdf</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\cy_isr_v1_70.pdf</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\cy_pins_v2_20</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\13_ADC_vtg_detect_UART_MATLAB_data_transfer\UART_v2_50.pdf</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\PSoC 5LP Architecture TRM</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\CY8C58LP Family Datasheet</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\System Reference Guides</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\ADC_DelSig_v3_30.pdf</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\cy_constant_v1_0.pdf</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\cy_isr_v1_70.pdf</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\cy_pins_v2_20</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\UART_v2_50.pdf</v>
+<v>Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer\WaveDAC8_v2_10.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>Embedded_basics</v>
@@ -774,6 +1129,17 @@
 <v>Embedded_basics\04_POT_LED_BRIGHTNESS\cy_clock_v2_20.pdf</v>
 <v>Embedded_basics\04_POT_LED_BRIGHTNESS\cy_pins_v2_20</v>
 <v>Embedded_basics\04_POT_LED_BRIGHTNESS\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\04_POT_LED_BRIGHTNESS\PWM_v3_30.pdf</v>
+<v>Embedded_basics\05_UART_INTRO</v>
+<v>Embedded_basics\05_UART_INTRO\PSoC 5LP Architecture TRM</v>
+<v>Embedded_basics\05_UART_INTRO\CY8C58LP Family Datasheet</v>
+<v>Embedded_basics\05_UART_INTRO\System Reference Guides</v>
+<v>Embedded_basics\05_UART_INTRO\System Reference Guides\cy_boot_v5_70</v>
+<v>Embedded_basics\05_UART_INTRO\cy_pins_v2_20</v>
+<v>Embedded_basics\05_UART_INTRO\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Embedded_basics\05_UART_INTRO\UART_v2_50.pdf</v>
+<v>Embedded_basics\06_UART_LED_STATUS</v>
+<v>Embedded_basics\06_UART_LED_STATUS\PSoC 5LP Architecture TRM</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
@@ -788,10 +1154,8 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\09_3_bit_counter.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\09_3_bit_counter.cydsn\main.c" />
-<name v=".\09_3_bit_counter.cydsn\09_3_bit_counter.cydwr" />
-<name v=".\08_CAPACITOR_PWM.cydsn\main.c" />
+<name v=".\14_DAC_ADC_UART_MATLAB_data_transfer.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\14_DAC_ADC_UART_MATLAB_data_transfer.cydsn\main.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -799,7 +1163,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="797, 424" SelectedTabbedMdiWindow="371166e6-4e0d-4d23-959a-173181123216"><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\09_3_bit_counter.cydsn\TopDesign\TopDesign.cysch" Guid="24e7b70e-930f-4c49-99c8-fc9d21d26e47" /><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\09_3_bit_counter.cydsn\main.c" Guid="371166e6-4e0d-4d23-959a-173181123216" /><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\09_3_bit_counter.cydsn\09_3_bit_counter.cydwr" Guid="e257d035-e037-4ee8-808e-1f9098e6a380" /><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\08_CAPACITOR_PWM.cydsn\main.c" Guid="98e2fc53-d437-4a78-b402-8722f68496e2" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1152, 703" SelectedTabbedMdiWindow="50afd195-0aaa-4691-a9b2-6a85ac62b7a2"><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer.cydsn\TopDesign\TopDesign.cysch" Guid="50afd195-0aaa-4691-a9b2-6a85ac62b7a2" /><DocumentWindow Key="D:\h_da\Lecturs\Basic Embedded\Embedded_basics\14_DAC_ADC_UART_MATLAB_data_transfer.cydsn\main.c" Guid="17c0cba7-85dc-4485-96c5-7b27cdf0a9ec" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="cb6fdc78-db2b-4c4e-ac8d-16d57de78d0d" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

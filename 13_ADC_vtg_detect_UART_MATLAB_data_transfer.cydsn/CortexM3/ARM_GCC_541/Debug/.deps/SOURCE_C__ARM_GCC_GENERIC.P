@@ -1,0 +1,74 @@
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_AMux.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_Ext_CP_Clk.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_IRQ.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_in.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_in_aliases.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_theACLK.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/CyDmac.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ISR_UART_Rx.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/UART.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/UART_IntClock.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cmsis_armcc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cmsis_compiler.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cmsis_gcc.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/core_cm3.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cydisabledsheets.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cypins.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cytypes.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_green.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_green_aliases.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_red.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_red_aliases.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_yellow.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_yellow_aliases.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/project.h D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/main.c 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_AMux.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_Ext_CP_Clk.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_IRQ.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_in.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_in_aliases.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ADC_theACLK.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/ISR_UART_Rx.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/UART.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/UART_IntClock.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cmsis_compiler.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_green.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_green_aliases.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_red.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_red_aliases.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_yellow.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/led_yellow_aliases.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/Generated_Source/PSoC5/project.h : 
+
+D:/h_da/Lecturs/Basic\ Embedded/Embedded_basics/13_ADC_UART_MATLAB_data_transfer.cydsn/main.c : 
+
